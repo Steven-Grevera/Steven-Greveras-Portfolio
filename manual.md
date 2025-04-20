@@ -1,4 +1,4 @@
-[Home](index.md) | [Manual Assessment Memo](Charbroil_Grill_Manual_Memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) | [Major Projects](Major_Projects.md) | [Contact Me](Contact_Me.md)
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | [Resume](resume.md) | [FAQ's](FAQ.md) | [Contact Me](Contact_Me.md)
 
 ![image](https://github.com/user-attachments/assets/ed253747-64e5-4fb9-add6-afc43e22bd9c)
 *Figure 1: The front page of the Steam Store image for Shadow Corridor 2.  Image from: https://store.steampowered.com/app/2310700/Shadow_Corridor_2/*
