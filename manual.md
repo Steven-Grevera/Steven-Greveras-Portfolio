@@ -1972,7 +1972,7 @@ At the end of your Marathon (if you make it that far-), your total time is total
 
 # AI Statement: 
  
-Grammarly was used to assist in the spelling and grammar of this assignment.
+No AI was used in the creation of this project.
 
 ![image](https://github.com/user-attachments/assets/7f5ea821-57ec-463b-b376-9b4be58ae7d1)
 *Figure 218: Image of the player suffering from brain freeze. Image Taken By: Steven Grevera* 
