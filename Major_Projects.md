@@ -8,4 +8,4 @@
 
 [AP World History Exam Guide](AP_World_History_Study_Guide.md) 
 
-[Microsoft Window's 10 Safe Mode Instructions Guide](Quick_Start_Guide.md)
+[Microsoft Window's 10 Safe Mode Instructions Guide and User Usability Test](Quick_Start_Guide.md)
