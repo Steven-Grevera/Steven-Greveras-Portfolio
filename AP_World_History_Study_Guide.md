@@ -1,4 +1,4 @@
-# AP-World-History-Study-Guide
+# AP World History Study Guide
 
 ## Note 
 
