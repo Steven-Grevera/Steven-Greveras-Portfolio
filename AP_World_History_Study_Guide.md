@@ -255,5 +255,322 @@ The Divided: Europe is scattered, fragmented, and in many ways in turmoil due to
 
 ## Chapter 4: Networks of Exchange (8-10% of the test)
 
+### 4.1 The Silk Roads
+
+The Silk Roads was a vast and expansive network that spread far and wide. From the North East direction was China, the tips being Beijing and Shanghai. From the North, West tip was the location of Mashhad. Its end in the Southmost direction, and the middle of the road itself came in the name of Patna. The road would go through it toward the Bengal Sea and parts of India itself. In total, the Silk Road consisted of 4,000 miles of road, making it huge. 
+
+In history, the existence of the Silk Roads was a major deal and a huge factor in the path toward modern globalization. It is the most famous trade route, but it is not the only one. This chapter will further explore that later, but for now, The Silk Road itself deserves a substantial amount of time. 
+
+The Silk Roads was primarily a means of transporting high-level regal/more expensive goods across a wide network, which is what made it so famous at the time. If you could dominate the silk road, you essentially had some of the greatest power in the world. However, it was the largest and most secure network out of all of them, so to try and steal from or dominate it would not be an easy task. It got its name as the most common trading commodity on the road was that of Silk itself. 
+
+Religion diffused greatly on The Silk Road and not just one. As expected as a common theme throughout history, Islam did indeed spread through The Silk Road; however, it was not the only one. Christianity and Buddhism as well were very key and heavily diffused religions via the roads and also helped to spread them along in these earlier days. 
+
+However, all was not sunshine and rainbows with this new connectivity that the road allowed. While it was not the only road responsible, the fact is that the Silk Road helped facilitate and diffuse The Black Death throughout the entire world. The Black Death was an extremely deadly disease that could kill at an extremely fast rate, and with technological advancements in medicine being far lower than in our modern time period, the death tolls were rising. 
+
+
+These death tolls would then turn into great fear. This led to the death of the community and created an anti-community atmosphere in which people attempted to isolate themselves. The issue was due to the primary spreader of the disease actually being rats, a household rodent problem; this only made things infinitely worse. A good way to immerse yourself in the feelings of this time period can honestly be seen at the start of the 2020 Covid19 Pandemic. It was very much the exact same thoughts and feelings of needing to hide and being afraid but much worse as medicine levels were far lower at the time.
+
+### 4.2 The Mongol Empire and the Making of the Modern World
+
+Throughout history, the Mongols have been seen as barbaric savages, but in truth, there is far more to the story than that stereotype. While yes, they indeed were infamous fighters and raiders in the world that were feared for their sheer military dominance as a culture and a people, they were unique in the world. 
+
+The Mongols were a nomadic/pastoralist society that tended to move from place to place and was always on the move. They spread all along Asia in regions such as Manchuria. Persia and Asia would eventually end up linked together through the Mongols and their conquests. 
+
+When actually settling and taking land down, they had a very complex tax system which allowed for major economic benefits to their society as it turned in a hefty profit. It was very structured and systematic, blending well into the economics of all the regions they took. Their economy was so good that they always had a surplus which they, in turn, then used as supplies to fund their war campaigns. They used the Silk Roads not only to travel, but survivors/others who had encountered The Mongols would spread their infamy to other nations via The Silk Roads. Tales, much how they spread the words of their religions. This, in turn, led to nations taking notice and preparing for their invasions in the future. 
+
+Despite this, The Mongols were extremely effective in combat which did the nations which were against it little good. One such tactic they used was throwing the black death in forms of canisters like old-fashioned forms of grenades as well as using larger variants to be catapulted. This was the earliest form of biological warfare to ever be recorded being used. It was extremely deadly and extremely effective at clearing out hostile settlements and completely destroyed the stereotype of them being barbarians and savages. 
+
+The Mongols were very egalitarian as a nomadic people when it came to gender and race. They mixed and blended all the time, and the usual modern-day stereotypical gender roles did not apply. It is theorized, however, by some historians in fact that it was The Mongol’s ruthless military campaigns that led to other nations fearing them, and for a good reason. However, this fear would manifest in such a way, it is why Gender Roles and the Patriarchal system began to take shape in places like Europe and across the world. Essentially, it was a counter-culture to the Mongol egalitarianism that stemmed from fear. So while The Mongols themselves may have been very egalitarian, they arguably extremely hurt women’s rights in the long run. 
+
+The Mongols were also extremely religiously tolerant. Allowing just about anyone to believe in as they wished so long as they served the greater group and didn’t interfere with their missions and goals.
+
+In the end, The Mongols fell due to not being able to secure their land as well as their nature of being Nomads. When times got hard, they picked up and moved to the point they did it so much that essentially everything fell. While in terms of global conquest and dominance, they had a very good run, in the end, they fell to the very same systems that made them so powerful in the first place. 
+ 
+### 4.3 Exchange in the Indian Ocean
+
+The Indian Ocean trade was the largest sea-based trade network to exist for the time period, stretching across huge tracts of the entire planet due to the sea-based nature of the trading. The network, unlike The Silk Road, which was commonly used more for highly valuable items and cost far more, was the polar opposite. Its goods were far cheaper, and its methods for maintaining it were far easier due to its ocean-based nature. It also tended to deal in much higher demands as they sold items in bulk as such, the items being sold had to actually be bulk-style items. 
+
+The Indian Ocean trade route was so successful that it helped to spur the concept of money as well as the creation and idea of the debt and credit system. Also created during and in many parts due to this route were both the compass and astrolabe. 
+
+One major issue with the trade route, however, was that it was heavily controlled by that of Monsoons. Should one occur and hit a trade ship, cargo would be lost, so it was very heavily influencing the route. Route users having to adapt for and compensate for route takers on it. 
+
+Islam made gains through these trade routes, introducing to diaspora communities that would end up becoming Islamic Merchants as well as to the country and people of the Swahili. Rapidly becoming Islamic. 
+
+### 4.4 Trans-Saharan Trade Routes
+
+The Trans-Saharan Trade Routes linked North Africa to the Mediterranean and then finally to that of West Africa. It spanned 1491 miles and had far more environmental variety in terms of regions that the route went through. While smaller than the Silk Roads, it was still an extremely key player in the history shaping of the regions. 
+
+This route completely changed and transformed West Africa by connecting it to larger parts of the world and, as such, also granted it far more valuable resources and introduced it to new ideas, cultures, and beliefs. 
+
+The route was the first to see the use and introduction of The Camal as a means of transporting more goods, similar to what a modern-day tractor-trailer would do today. Carrying many goods in bulk across the route in order to reach their destination. 
+
+The route created further social complexity and brought further globalization to the entire planet but also began to once more further increase the sense of patriarchy and oppression of women seemed to be increasing. As a result of the Mongol raiders and conquests, as discussed previously, women on this route of high rank, wealth, or power were seen as “dangerous.” Which slowly blended into the whole of the cultures connected to the routes as well. 
+
+### 4.5 Cultural Consequences of Connectivity
+
+The consequences culturally of these routes as vast. Diaspora communities, due to these routes, began to forge entirely new identities and found entirely new purposes. Diffusions of religions occurred at far greater rates which brought with them cultures of their own as well. 
+
+Large-scale migrations occurred of the Bantu and Polynesians. Chinese traditions would begin to make it to Japan. You could consider these good or gray consequences.
+
+But something most can agree would be a major con in terms of consequences would be the lowering of the status of women. Spurred on by the Mongols, women would continue to deal with more and more issues, and now, in Islamic-styled nations such as the Persians taking on the Veil for women, which in terms was viewed as subjugation before Allah. 
+
+### 4.6 Environmental Consequences of Connectivity
+
+The creation and maintaining of the routes, as well as the human interactions involved in them, led to the creation of crops just for the routes to be sold on. For example, Bananas were diffused everywhere. However, as things like the compass came more into use, as well as various tools, all of them required metal. This requirement of metal meant that there was more metal needed to be gathered, and so more was gathered as well as mined. This created environmental damage to local ecosystems and areas for the benefit of the metal being obtained. Money economics as well required this as they used metal coins which in turn once more would damage the environment. 
+
+Meanwhile as well, deadly pathogens would spread on the trade routes that would not only kill humans but would also kill many wildlife and even plants. Things such as the Black Death and many other diseases that we don’t even have recorded in history anymore. This will get worse over time as well as come up again in the age of gunpowder. 
+
+
+### 4.7 Comparison of Economic Exchange
+
+The three routes listed were the most extensive trade routes for the time period and had drastic and everlasting effects on the regions in which they connected. The primary differences come down to the goods that were sold and the types of routes that they were.
+
+The Silk Road: Tended to deal with luxury items, was well secured, and was the biggest of them all. 
+
+The Indian Ocean: Was the first major ocean trade route that was effective and successful. It was the only water one compared to the other two. It also tended to deal with less valuable items and was all about bulk. 
+
+The Trans-Saharan Trade Routes: Tended to deal with the transfer of metals such as gold and were much smaller than the Silk Roads. 
+
+
+# Part 3: c. 1450 to c. 1750 
+
+## Chapter 5: Land-Based Empires (12-15% of the test)
+
+### 5.1 Gunpowder Empires
+
+With the coming of a new age came the coming of a new type of empire. The age of melee weapons and primary metal-based medieval-style weapons was at an end. A new style of technology to be utilized for warfare was coming to the forefront, and that technology was that of gunpowder-based weapons.
+
+With new technology also came new nations and new cultures that will be discussed further along as we go along. With those also came new belief systems, which justified a newfound belief in expansion and conquest. 
+
+For the most part, with this new and powerful technology, gone were the days of peaceful assimilation and absorption of regions into the nations. Now, the days of conquest had truly racked up, and those without gunpowder would be quickly conquered by those who had it. 
+
+All Gunpowder Empires shared three distinct characteristics. Those were that they always had a large centralized authority and were (usually) a land-based empire. They utilized and prioritized gunpowder for the use of territorial expansion, and then finally, they always had a type of administrative system to amass wealth and thus support their gunpowder-based forces. 
+
+### 5.2 Europe
+
+Gone from the periods of strike and disunity, surviving and resurging after the plagues and the crusades, Europe was in a period of both recoveries but also of true dominance. The Big 5 countries in this region are now countries we know even today. They were: Spain, Portugal, France, England, and The Netherlands. 
+
+Across all European nations, the end of the Feudal System had begun, ending serfdom and its entire concept. 
+
+Across Europe, a common form of dominant ruling style was that of “absolutism.” Absolutism was the belief that: their rule could not be challenged as their rules were ordained by God. They ruled in every aspect possible. 
+
+Christianity, meanwhile, was dealing with the emergence now of a new sect. The Protestant Reformation had begun. Martin Luther, who didn’t believe in the idea that an indulgence (essentially a payment to absolve your sins in the eyes of god and the church) should absolve one of their sins as well as questioned the entire concept of confession as well. He nailed his “95 Theses” onto the wall of a church, and so a conflict had begun between the whole of the religion.
+
+### 5.3 Russia
+
+The Mongol dominance took quite some time to shake off of Russia, but it was Ivan The Great that managed to do so by force. Forcing an end to the Mongol's Indirect Rule style. Orthodox Christianity also became the dominant force in Russia during this time period, and this was even used by Ivan The Great to unite all of Russia behind a common ally, so the speak. 
+
+Ivan The Terrible, however, on the other hand, his son, while arguably doing many great things for Russia, received the nickname due to the method in which he achieved this. Ivan The Terrible took Russia and turned it into a complete and total “Absolute Monarchy.” Proclaiming himself “The Czar” (which would forever more speak of a Russian King as a term), in doing so, Ivan had set up Russia for “Absolute Rule,” which was an extremely forceful and totalitarian method of ruling where anyone who disobeyed was usually brutally killed in savage displays of power. This gave Russia a heavily “savage” appearance and theme during Ivan The Terrible’s reign. 
+
+Ivan The Terrible would attempt to westernize his nation by force. He forced men to shave their beards at great cost if he was deified. He also stole power from Sweden and expanded into Siberia by military force to add to the land. 
+
+Eventually would begin “The Romanov Dynasty.” The Romanov Dynasty was a period in Russia in which several rulers by imperial rule controlled the land of Russia. The Romanov Family was the last imperial power to rule Russia in our modern history as of yet. 
+
+The first of the Romanovs of note was Michael Romanov, who expanded Russia into the Pacific Ocean. He made peace with both Sweden in 1617 and Poland in 1618, rectifying what he viewed as a mistake from Ivan The Terrible. Another of the reasons for peace with Poland may have come from the fact that Michael’s father was in captivity in Poland, and after peace was established, he was released. Michael’s father would become a prominent member of Michaels's court, and together with him now as a form of co-ruler, they achieved many things they would consider reforms. Such as a strengthening of the federal power over the local, dealing with financial issues and debts the nation had incurred, and also strengthened serfdom. Internationally, Michael would increase diplomatic and cultural efforts between Russia and Europe, and this would further westernize the nation. 
+
+Eventually would come Peter; The Great, and with him would come in history what is viewed as Russia’s “Modernization” moments. Peter would make Russia into a great European Power and greatly expanded The Russian Navy. He lessened The Orthodox Church’s power as well. Peter was a perfectionist from a young child all the way into adulthood, so when he inherited the throne and thus the state of Russia, he despised it. While he made it far more powerful and arguably brought it to greatness, he did so through the means of tyranny, and in history, many times through its citizens, Peter is viewed as a tyrant. Peter would go on to have built St Peterburg as he also heavily continued to promote and try and expand “westernization.” 
+
+Eventually, after Peter came Catherine The Great, who many considered to be more “enlightened” than the previous Ivan; however, she was still extremely oppressive toward her people and kept up many of the same systems in which he ruled previously. 
+
+### 5.4 East Asia
+
+When talking about East Asia in this time period, we are mostly talking about two different Dynasties which came back to back. In fact, one Dynasty was the origin of another; that is to say, the second dynasty would not have existed without the destruction of the first. Those two dynasties are both the Ming Dynasty and then the later Qing Dynasty, which occurred afterward. 
+
+The Ming Dynasty was still considered another Golden Age in China. Founded in 1368, The Ming, like the Song prior, were still heavily influenced and based on the idea of Confucian principles and ideologies. They also still administered the Civil Service Exam as part of the rank and file hierarchy-making system of their country and culture. Demand for Ming Porcelain and Silk was massive, which allowed the Ming to dominate and gain much economic power, which they then could turn into funding and expanding The Great Wall. 
+
+Emperor Hongwu elevated the role of Emperor within The Ming Dynasty as its first Emperor. Giving himself more power, and thus, so all subsequent Emperors after him. He removed the position of Chancellor and greatly lowered the power of eunuchs in the country. He also brought up several heavy anti-corruption reforms that some would have even called “draconian” by Chinese standards. 
+
+After Emperor Hongwu came Emperor Yongle, Emperor Yongle tried to open up China to the world by sponsoring expeditions around it. He sponsored an explorer known famously as Zheng He. He also tried to bring about more diplomatic ties and diplomacy around the world. Emperor Yongle would move the capital city to Beijing, where it is today, and also most famously had The Forbidden City built, which stands tall to this very day. 
+
+After the death of Emperor Yongle on August 12, 1424 CE, China became far more isolated, and instead of continuing to look outward, instead began to look inward.  It was during this inward examination of itself that, over the next hundreds of years, a new conflict would begin. 
+
+Inflation had begun to skyrocket due to a large-scale silver influx problem into the country. On top of that, the population increased drastically over the hundred years, and so would come the final nail in the coffin. Lack of food. Due to lack of food, people began to starve, and this fueled a civil war, and in 1644 a peasant revolt began.
+
+In that very same year of 1644, the Manchu soldiers took Beijing, and from within it, they proclaimed a new Emperor. With that Emperor as well, they brought themselves into a new Dynasty now, calling it now: The Qing Dynasty. 
+
+With The Qing Dynasty came many drastic and severe changes to the structure of China. The Manchu claimed the Mandate of Heaven and thus became the absolute authority. The Manchu were not ethnically Chinese and banned intermarriage between Manchu and the Han (Chinese). The Qing also forced a Manchu Queue hairstyle on all citizens. Despite the Qing’s violent birth, it was far less violent and conquest-centric than its European contrast.
+
+The Qing continued to utilize the civil services exam, which was one of the few remaining relics of the past that this Dynasty actually kept. They acquired Taiwan, parts of Mongolia and Central Asia, and finally Tibet itself as all part of the Ming Dynasty’s reign. 
+
+Emperors Kangxi and Qianlong saw themselves as preservers and restorers of Confucian ideals. They became synonymous with the return of the religion and thus were considered high-level scholars of it by the people. Qianlong was known as a great collector of many of China’s previous and private secret documents and, like the previous Emperor, was heavily learned through these documents and considered an intellectual. 
+
+With the two dynasties out of the way, it is important to note the existence and history of a third nation which was beginning to come to prominence as a hindrance and resister of Ming rule. We are, of course, talking about Japan. 
+
+Japan during this time was ruled under the Tokugawa Shogunate. The Shogunate was a militarized government that focused on its warrior class-leading any and all civilians that didn’t fit that title. With it came Japanese Feudalism and The Code of Bushido (Way of The Warrior). Its capital was the city of Edo, and thus this period was known as the “Edo Period” of Japan. 
+
+The Code of Bushido was a strict system that taught that honor, courage, and loyalty to one's master surpassed any and all other wants or needs in the world. This code made the Japanese Samurai (Japanese version of Knights) heavily revered and respected amongst the populace. 
+
+The Ruler of Japan was The Emperor but below him were several lower lords called “Daimyo.” The Daimyo were those usually in which the Code of Bushido stated a Samurai was to be the most loyal to as the majority of Samurai would find themselves under the employ of a Daimyo. 
+
+Shintoism was the main religion of Japan. Shintoism is a polytheistic religion local to Japan and revolves around supernatural entities known as The Kami. It is a primarily nature-based religion, and most worship is done in Japanese-style shrines that, in today’s modern era, have become quite famous for their amazing designs. 
+
+Of note, the Tokugawa did important things as well for this culture. Of note, Tokugawa Leyasu ended Japanese Feudal Warfare, uniting the country further in its rule. In contrast, Tokugawa Lemitsu brought in Alternative Attendance, which required the Daimyo to divide their time between their own lands and residences and the capital of Edo. 
+
+As time went on, Japan would see itself becoming more and more isolated, and this would come to a head with the National Seclusion Policy of 1635. It allowed for limited interactions and trade with The Dutch, but all other non-Asian countries were to not be dealt with or interacted with at all. That said, the other Asian countries were no better viewed as all of Japan during this time period began to view non-Japanese culture with disgust and scorn. Bringing them further and further into their isolation, and even today, many of these aspects of its culture survive. 
+
+### 5.5 Islamic Gunpowder Empires
+
+When discussing that of the three Islamic Gunpowder Empires, the nations that we are talking about are that of The Ottoman Empire, The Safavid Empire, and the Mughal Empire. All three Empires had unique characteristics, but above all, they were all gunpowder empires. 
+
+The Ottoman Empire centralized its power under that of The Sultan and did so over time. The Sultan would end up with ultimate say and ultimate authority over the whole of the Empire. 
+
+Devshirme, or “Blood Tax,” as some people called it, was the practice of taking Christian Children from their families to be forcibly conscripted into the army. This would constantly bolster both their numbers but also apply pressure on those in the empire that were not Islamic. 
+
+The Haggis Sofi, a traditionally Christian Site, was converted to a mosque as a further slight against its non-Islamic citizens in, which the Ottomans ruled over. Mehmed The Conqueror was a famous leader within The Ottoman Empire who conquered Constantinople and renamed it Istanbul. Another conquest against The Christians. 
+
+One of the reasons for the Ottoman Empire’s dominance and survival was that of the Janissaries. The Janissaries were elite ultra-loyal soldiers that served as the Ottoman Household’s personal troop. It was considered in history to be that of the first “modern” corps in a military unit and was highly lethal and extremely effective. Even so, the Janissaries were slaves in that they like the Devshirme system, were taken through foreigners to bolster its ranks. Believing it better to spill the blood of non-Muslim populations than to use Muslims. In fact, many times, Christians taken from the Devshirme system were converted and brought into that of the Janissaries. 
+
+Selim the I, Sultan of The Ottoman Empire during the period of 1512 – 1520 CE, began the conflict with the Safavid Empire, which would last from 1514 – 1639 with various forms of different conflicts and incidents between the two nations and battles along each other’s borders. 
+
+Suleiman The Magnificent, who reigned from 1520 to 1566 CE, expanded the empire heavily and was known in his empire and amongst his people as “Lawgiver.” The Suleymaniye Mosque was built in his honor in the newly conquered Istanbul in 1557 CE. 
+
+The decline of The Ottoman Empire would begin with defeat at Vienna in 1683 and marked the turning point of Ottoman Domination in Europe. Harem Politics would end up leading to fighting for power and thus weaken the empire in general. From the 1800s and onwards, the Ottoman Empire was known as “The Sick Man of Europe,” as its issues would not cease long after their defeat at Vienna. 
+
+The Safavid Empire was primarily established through military conquest and was a Shi’a Islamic Empire. Like the Ottomans, the Safavid Empire would use that of Slave Labor to bolster their ranks. They used a military unit known as the Ghulams. The Ghulams were absolutely loyal to that of the Shah and his will, whatever it may have been. 
+
+The Safavid Empire were very effective at using both artillery and their rifles in combat. They had a very heavy Persian influence on their people and cultural styles. 
+
+The Decline of The Safavid Empire would come due to several issues that plagued its kingdom. The first of which was a series of ineffectual leaders that would cost the empire dearly in combat. A rebellion would then arise in Afghanistan of Sunni Rebels, and they would fail to put it down, losing the territory and huge amounts of respect in the community. These Afghans would even go on to temporarily take and hold the capital Isfahan for a considerable period of time. 
+
+Eventually, the Ottomans and The Russians both seized land from the Safavid Empire, and the Empire would eventually be replaced by the Zand Dynasty in 1760 CE. 
+
+The final of the three Islamic empires was that of the Mughal Empire. Babur, the Empire's Founder, would conquer the Delhi Sultanate, making it an Islamic Empire with a majority Hindu religious population. 
+
+Akbar, a Mughal Emperor, was extremely tolerant and was widely respected by the people, allowing the Empire to flourish in its early days. Je would eliminate the Jizya as an olive branch to those whom he ruled over. 
+
+A middle period during the Mughal Empire would have been when the ruler of Shah Jahan reigned. He built the Taj Mahal and enjoyed his rule for some time. 
+
+However, the Mughal Empire’s fall would come in the form of Emperor Aurangzeb. Aurangzeb ended the tolerance of the empire up to this point and brought back the Jizya. They began to destroy Hindu temples and began to promote Islam above all else. As a result of this, there would be frequent revolts within the Empire which weakened it, leaving it open to a British Invasion that would come, and by 1757 CE, The Mughal Empire would come to slowly be dominated in all aspects by The British.
+
+### 5.6 Administration
+
+In order to maintain the large lands that many of these conquest-based nations had plans to create, they required strong administration and a heavy reliance on military power. Below will be listed administrative policies that each of the Gunpowder Nations used to try and maintain their power. 
+
+Not only did the Ottoman Empire have that of the Devshirme system, but they also had the iltizām, or “Tax Farming.” Tax Farming kept the empire well funded and essentially meant that taxation was auctioned off to the highest bidder, with the winner being allowed to keep a certain percentage of the tax winnings for their own benefit. 
+
+The Ottomans also had The Millet System. The Millet System, despite the “Blood Tax” from The Christians and all other religious groups, essentially stated that religious communities could govern themselves by their own religious laws so long as their taxes were paid and their dues were on time. This was a major motivation for loyalty from those conscripted into service, as the idea was that eventually, in theory, they could attain their freedom. 
+
+The Mughal empire had their Zamindars and their Rajputs. Rajputs were local Hindu princes who were allowed to retain power in exchange for loyalty. Ramindars of both Hindu and Muslim kinds collected taxes from these Rajputs as well as their own local populations in the area as a means to try and sow trust within the people. The Ramindars would raise large armies in support of the nation and would be very helpful to the progress of the Empire. The Mughals also had the Subah, which was a division of the empire solely focused on tax collecting, focusing specifically on taxable income and how much to collect from agricultural surplus. 
+
+### 5.7 Belief Systems
+
+Within each Empire as well were their own set of belief systems aside from just Islam. In fact, The Ottomans and the Safavid Empire were both primarily Islamic. The issue was the sect of Islam that they were. 
+
+The Ottoman Empire was that of the Sunni Muslims. They believed that Caliphs have to be direct descendants of The Prophet Muhammad. Caliphs were the chief Islamic ruler in the entire world. The Caliph was supposed to be the protector of the entirety of the Islamic world. The Ottomans also believed directly that the Sultan was the Islamic Caliph. The Shi’a, meanwhile, believed that one must be a descendant of Muhammad to take the title of power. This single difference was enough to spark several wars and for the two sides to hate each other greatly, as the Safavids were Shi’a Islamic. 
+
+Whereas the Ottomans ruled over a majority Islamic world, the Safavids Empire did the same; only they were a Shi’a Ruling Minority ruling over a majority Sunni Country. Rebellion and turmoil were inevitable, but this was the system they nonetheless used in the Safavids Empire. 
+
+The Mughal Empire, meanwhile, was a Sunni Islamic minority of ruling elite over a majority Hindu country. Using the methods discussed above seemed like the most logical plan to survive this state of affairs for the whole of the empire. 
+
+In the Safavids Empire, their leader, The Sha, was considered “The Hidden Imam.” Believed to be the last of the Twelve Imams and would bring about peace and justice to the whole of the world. The Empire would encourage uprisings in the Ottoman Empire, constantly using these lines of thinking and using this message.  
+
+### 5.8 Comparison to Land-Based Empires
+
+When comparing those of the Gunpowder Empires to those of the Land-Based Empires, it is important to note what we are referring to. We are referring to the three Islamic Empires versus the rest of the world when making these comparisons. 
+
+Whereas Land Based Empires would and could battle over nearly anything with one another, the primary thing that the Gunpowder Empires ended up fighting over was the sectarian differences between the Sunni and the Shi’a Islamic Faiths. They relied heavily on their weapons and their systems as they made constant war with one another. 
+
+Whereas The Land Based Empires had begun a new adventure: Industrialization. The Gunpowder Empires failed to do this as soon as the other Land Based Empires, and this would result in Europe attaining global dominance over the world stage. Despite this, Russia was able to industrialize as well, making it one of the few in the region to enter the next age with the Europeans. 
+
+## Chapter 6: Transoceanic Interconnections (12-15% of the test)
+
+### 6.1 Technological Innovations 
+
+Due to a growing economic need as well as needed improvements to the existing oceanic trade routes as previously discussed in the Indian Ocean, technology began to diffuse from The East slowly over toward The West. Things like the compass, astronomy, and the sail types used on the routes would improve over time and end up also used for the means of exploration. This means of exploration would fuel a very different era. 
+
+Better ship designs would allow for a far greater distance maximum that could be traveled, which would be required for The East’s exploration of The West. As well as The Indian Ocean’s existing navigation of monsoons being required, this would carry on into general exploration of The West from The East as it continued its journeys over time. This would spur on not just new technology but new techniques and perfected routes that would carry over into all future sailing across the globe.  
+
+### 6.2 Explorations: Causes and Events
+
+Due to new technology and techniques, journey’s once thought impossible now seem possible. Before, most of these types of exploring missions would be seen as “suicidal,” and so very few people would actually go on them or even try and attempt them. With the improvements made, even the more sane and rational individuals would see an opportunity to gleam from a voyage. 
+
+As if that wasn’t enough, nations themselves began to see the opportunity to be had from “The New World” and so began to finance explorers to the various regions in which they felt there could be something of value to be gained. States mostly saw interest in making new connections with new people and thus opening up trade at the time and were truly unaware of the can of worms they were about to open. 
+
+The first to make good progress was The Portuguese, who would focus mostly on mapping and exploring that of Africa. They would succeed, mapping the majority of The West Coast. 
+
+This venture would then inspire Europe to sail across The Atlantic, and so it was. The Spanish would make the game-changing journey and move of financing Christopher Columbus to explore what would come to be known as “The Americas” and begin a large-scale change to the global world. 
+
+The North Atlantic crossings were done by a combination of various explorers sponsored by The British, The French, and The Dutch.
+
+### 6.3 Columbian Exchange
+
+A common mistake made by those studying history is about the term “The Columbian Exchange.” The way we are taught to understand such terms, you would think this was a trade route or some kind of deal made between Columbus and the Native Americans or others with which he had dealt on his journey. In reality, it was not trading. While some limited trading would occur when it was needed by The Pilgrims, this “exchange” was more of a freestyle movement of events and actions that would occur at random over time between the Eastern Hemisphere and The Western Hemisphere. An example of this would be diseases that were spread. Nobody made a deal to obtain a disease as who wants to actually get sick or, worse during these time periods, die? This exchange would have massive demographic shifts for both humans and other species within The Eastern and Western Hemispheres forever. 
+
+Domesticated animals were brought over to the Western Hemisphere. In the case of Spain specifically, they would end up bringing Horses which American Cowboy stereotypes are so famous for in today’s modern age. Had this exchange never occurred, we would never have obtained our famous horses. 
+
+American Food Crops would end up taken from the Americas and taken to Afro-Eurasia, where its rich amount of calories would be very beneficial to the increase in the population of those areas. This exchange would also begin the large-scale beginning of the idea of “Cash Crops.” Cash Crops were the growing of crops for sale rather than for food necessarily. In some cases, some crops couldn’t even be eaten anyway. Examples of this would come in the form of Cotton for example. With an entirely new world to grow, Cash Crops, however, would come to a need for labor, which we will get into shortly a bit later on how this labor was obtained. 
+
+All was not well coming from this exchange, however, as diseases such as Smallpox, Malaria and Measles would all come to The Americas from those in The East. At the same time, The West would get its “vengeance” in the form of venereal syphilis sent to The East. 
+
+### 6.4 Maritime Empires Established
+
+Maritime Empires were the opposite of Land Based Empires. Whereas Land Based Empires focused on land, Maritime Empires focused primarily on trade and territorial dominance, and holdings abroad. Maritime Empires would have constant trade posts littered all over the world, and so Maritime Empires, by sheer existence, could never be isolationist and instead were entirely about trading and interacting with other Land Based or other Maritime Based states and nations. 
+
+Europeans had almost solely all contact with trading in The Americas using these trading posts or their own that were made. They would, as such, come to dominate and fully control the “Columbian Exchange” that was set up between The East and West.
+
+Expansions to the empires, especially in Europe, would lead to new economic and social systems and opportunities. The land taken via colonies as well would come in handy as means of conquest and the means to grow these economies.
+
+With the new focus on Cash Crop based economies, The Colonies, which had begun settling in the Americas, saw a new labor system and economy being used. Plantation Systems. Plantation Systems were large-scale plots of farmland that required massive amounts of labor to maintain the sheer amount of crops on the plantation itself. It was highly efficient and extremely economically beneficial to those selling; however, the high labor requirements for these systems would come at a huge drawback.
+
+The Cash Crop plantation labor requirements were immense, and it seemed that the Europeans couldn’t find enough workers to meet this demand. As such, Europeans turned to an old method of labor: Slavery. Only over time would they advance this practice further with the invention of Chattel Slavery. 
+
+Chattel Slavery was the shipment and storage of human beings, slaves, in large amounts packed together in ships. The idea was to maximize profits by buying slaves in bulk rather than individually. Some ships could hold hundreds of slaves by packing slaves on top of one another in tiny rooms under the decks of the ship. This would grow the security market for these slave ships, further increasing the economy at great cost to the locations where they were taking their slaves from. 
+
+Meanwhile, this dominance would come at the great expense of other nations around the world and cause great changes everywhere. First, in Africa, Europe would spell either the rise and growth of some nations or the fall and decline of others. The trend tended to be those nations that embraced European trade and interactions would grow and prosper and would see their power increase due to European weapons as well, which were provided. Whereas those that defied or resisted Europe tended to begin a rapid decline and tended to end up defeated by those nations supported by Europe due to the power differences. Worst yet, those states that would end up in decline would be used for the Trans-Atlantic Slave Trade in the form of slave raids conducted by Europeans for use in labor. More on that later. 
+
+The Indian Ocean trade route continued to exist during this time period and, in fact, was integrated into both the Columbian Exchange but also found its uses for the Slave Trade in some instances.
+
+For a myriad of reasons, be it the large-scale use of slaves or the nature of maritime empires coming to dominate those they traded with, The Ming Dynasty of China during its time period would go on to limit European trading. Tokugawa Japan, as previously discussed, would take that far further and only allow very select and limited trade with their Dutch partners. They also limited interactions with these port locations heavily. 
+
+### 6.5 Maritime Empires Maintained and Developed
+
+As Maritime Empires developed, a new ideology for economics came into most nations using this method. That ideology was that of mercantilism, a high value in trading but also the belief that a maritime empire needed to export more than it imported. This would generate large amounts of revenue but also would allow no nation that practiced this belief system to fall into domination by any other. 
+
+Joint Stock Companies would come into existence based on the soaring economic status of these various companies that worked for Maritime Empires, such as the infamous East India Trading Company. Monopolies were becoming a major factor that little could be done about; however, due to the sheer manpower, will, and distance between The New World and The Old. If a company began to dominate a product, it would flex that dominance in its prices and drastically skyrocket its profit margins. 
+
+The global influx of silver increased due to mining opportunities in the Americas which, as much of economics was done using metal coins at the time, would greatly expand the potential stake each and every member of society could maintain within said society.  
+
+Competition between nations would begin to rise, and not just that of the Maritime Empires facing off against one another. It would lead to heavy rivalries and even, in some instances, conflict. One such rivalry was that between the Ottomans and The Portuguese. The Portuguese would set up various sea outposts as well as trading ports within Ottoman territory which the Ottomans didn’t necessarily agree to or like. This put a Gunpowder Empire at odds with a maritime one. Then, Moroccan and Songhai nations would end up in actual conflict over these rivalries, and by nature of the competition, the two nations opposed to one another. Finally, in the Indian Ocean, Muslim-European relations were strained and greatly at odds with one another in terms of economic interests. 
+
+Due to the sheer volume of goods coming in from “The New World,” Artisan and peasant labor became further divided as one man would be so busy with the sheer volume of required goods that they would never have time to switch. This further divided the classes further along and would come to symbolize the new status quo from herein. 
+
+Family and gender restructuring would occur en mass on the entire continent of Africa due to the ramifications of the European Slave Trade causing massive demographic shifts. Due to the nature of slave labor being that of hard labor, men were valued far more than women for the use of slavery, as such. Most slave raids and slave purchases would be conducted on and for the acquisition of African Men. This would leave behind many women who were spared a hard life of labor in many instances and required all societies contributing to these slave trades to completely rethink who should remain in charge as well as who would maintain the nations while all the men would disappear. 
+
+Cultural synthesis would come in the forms of all the movement of people, spreading culture and religious beliefs like wildfire, amongst others. This would also spread conflict as well due to these beliefs; however, these would also be increased by the rapid rate at which they could now be communicated.  
+
+### 6.6 Internal and External Challenges to State Power
+
+All was not smooth sailing, however, internally or even externally, as it would come as no surprise that resistance movements and revolts would grow in response to these rapid changes that some even viewed as immoral. While on the home front internally, most Maritime Empires were quite stable, the majority of resistance movements and rebellions would occur in colonies, trading posts, or from local populations that had been “colonized.” The logic for this was simple; we weren’t yet in the modern era in which, within hours, forces could swoop in and counterattack resistance forces; it would take months on a voyage. As such, resistance movements had plenty of time to lay siege, capture, and set up defenses to render their “oppressors” jobs harder. 
+
+Notable rebellions included the Cossack Rebellion of Russia against states claiming dominion over the Cossack Territory. The Pueblo Revolts from the Native Americans in the Americas occurred in what largely would by modern standards be called “New Mexico” against The Spanish and African Queen Ana Nzinga’s resistance, which lasted thirty years in the countries of Ndongo and Matamba which lasted 30 years against The Portuguese. 
+
+Not only did the above notable incidents occur, but so too did a growing movement of Slave Resistance ideology that fought for their own form of freedom away from The Colonizers. These occurred mostly in North America as well as Brazil. While some resistances rose and fell, the most prominent and effective forms of resistance were a type of society, in fact, called a “Maroon Society.” 
+
+Maroon Societies were groups of runaway slaves that would band together to create their own forms of resistance civilizations against any and all who would attempt to take them back. They tended to be armed and experienced in escape and combat due to the nature of being slave escapees. These societies would put up such a fight that oftentimes, most military powers would surrender. Of note, Jamaica was forced to have a treaty made with them in order to cope with the fact that they simply could not take back their runaway slaves. A major defeat for The British in that instance, but they were not the only ones. Maroon Societies tended to exist in Africa but could be found in The Americas as well, scattered amongst the land. 
+
+The North American Slave revolts saw small victories, and often times many of these freedmen would escape to that of the Maroon Societies. As such, The Colonizers had the best interest to ensure that they didn’t make it to these pockets of land; else, they become uncapturable and more powerful than they could ever imagine. The largest North American Slave Revolt was that of The Stono Rebellion, which saw 20 slaves escape at once successfully.
+
+### 6.7 Changing Social Hierarchies 
+
+Growing diversity in empires would cause suppression efforts. As racial purity was still considered of high importance (racism), countries would adopt various methods on how to deal with those that would come into their ranks. For example, Jews and Moriscos were expelled from Spain. Another example of this would be the previously mentioned Qing Dynasty’s policies against the Han Chinese. 
+
+Diversity would also lead to new social classes. For example, in the Americas, a caste system began between that of the Colonizer, colonists, Native Americans, and The Slave. 
+
+Existing elites would see their power shifted away from them in some instances and into new forms of elite forces. For example, The Russian Boyars, who were rich land owners in Russia, lost much power. European Nobility had the same issue, as with all the constant new avenues to acquire power, people would try and take that power by any means necessary that they felt fit, even if it meant from each other. 
+
+### 6.8 Continuity and Change
+
+While much has changed in terms of the way the world now runs during this time period, much has still stayed the same. For example, transoceanic travel existed prior via the Indian Ocean trade route and just general sailing; however, improvements to the technology had greatly set the speed and quantity of passengers ahead. The era would drastically show the major benefits and as well as just how big of an impact technology advancing would have on the whole of the world. 
+
+Cultures that had never interacted before had started to do so and even be dominated by others, such as The Americas and The Eastern Hemisphere. 
+
+Labor systems continued to use slave labor within them just as they had many years prior. Only now, however, they bought in bulk and by far higher means than previously done. The process would become far more involved, and the sheer size of the entire operation was far larger than ever seen, so much so it was fair to carve out an entire section of the European economy and call it the “Slave Economy.” The number of slaves would only continue to increase as well due to The Columbian Exchange.  
+
+While many empires had fallen and risen, Europe had gone from a disunified mess to a powerhouse of the seas. Wielding power and influence over not just some nations but essentially the entire world. Meaning the difference between your nation's decline and your nation's rise just on the basis of if they treated you right or not was a very prideful thing you can imagine. While other nations would continue to rise and fall, Europe was a consistent slow turtle that essentially would constantly be in a very slow state of rising. Once it had plateaued, it would not fall again, even in today’s modern era. 
+
+# Part 4: c. 1750 to c. 1900
+
+## Chapter 7: Revolutions (12-15% of the test)
+
 **More here later after I verify I should continue.** 
 
