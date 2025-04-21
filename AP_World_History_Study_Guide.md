@@ -732,5 +732,124 @@ This would lead to many “dependent nations.” These were nations that rallied
 
 ## Chapter 8: Consequences of Industrialization (12-15% of the test)
 
+### 8.1 Rationales for Imperialism
+
+While we have discussed Imperialism in the previous chapters, as we will be discussing various detailed ways that imperialism would occur during this time period, we’re going to define it here. Imperialism is the act of extending rule or authority over foreign countries. This could be done in three different ways. 
+
+The first way was through the use of direct rule. Direct rule was when a nation would come in by force using its military and conquering a nation in broad daylight. While this did indeed occur, this was usually the less preferred of the three options. 
+
+The second way was indirect rule. To think of indirect rule, think of The Man Behind The Curtain style rulership. In other words, imagine a puppet government is set up, but in secret; in reality, another force is actually ruling in the shadows. 
+
+The final form of imperialism was that of Economic Domination. Of all the methods used, this method was usually the most profitable as an Imperialistic nation would essentially act as a vampire and suck resources out of vessel nations that it sought to dominate. They would usually do this through unfair treaties that they would force nations to sign with threats of violence should they not sign them. In some cases, even with these treaties made, the Imperialistic nation wouldn’t view the treaty as “real” and, in a sense, was a “mercy.” As such, they would sometimes just blatantly ignore their own treaties and steal resources outright from vessel states. 
+
+While there are notable exceptions in the examples of Russia, The United States, and Japan, the primary form of imperialistic dominance we will be discussing as we move through these chapters are from Europe to the rest of the world. 
+
+The rationale behind the acts of imperialistic action came in the form of five primary ideas. The first of which and the greatest factor in imperialism was that of money. Any and all nations that would dominate other nations would come to see huge economic benefits and booms in their own economies. This would occur not only due to direct money payments that could be sucked out of made vessel nations but also due to the resources that could be taken from each vessel nation that was made. 
+
+The second was an idea that had begun to dominate Euro-Centric nations, including the United States, that was called: The White Man’s Burden. The White Man’s Burden was a poem written by Rudyard Kipling which would end up becoming an actual thought process and ideology for the time period. The idea of The White Man’s Burden was that the nonwhite races were inferior savages that needed to be civilized, and so it called for the nations of the world to create empires, conquering them and showing them the ways of civilized society. In other words, it was pure racism that was prevalent during this coming time period. 
+
+The third reason was nationalism. A sense that the imperialistic nation was so above other nations that their nations were the best and better than others and thus had a right to dictate how other nations should be run to be successful. This would later be coined as “Ultra Nationalism,” as nationalism in itself is just essentially like cheerleading your own nation’s glory. A healthy amount of nationalism is possible, but in this, it would manifest and be extremely poisonous.
+
+Worse yet, with The White Man’s Burden combined with that of The Ultra Nationalist mindset, you would end up with millions of people that felt themselves sworn to an honor-bound duty to take over and conquer the world. To civilize the savage nations in droves and, as such, almost no evil could be done to them. 
+
+The fourth reason would come in a perversion of Darwinism called Social Darwinism. Darwinism was the belief in the survival of the fittest. In other words, the fittest to survive would indeed do so. It was also a belief that natural selection would indeed make this occur. Natural Selection was a set of natural traits born into “inferior” or “superior” beings. This ultimately would boil down to an individual and, thus, eventually, a species' ability to reproduce, survive and compete. Darwinism was mostly a method of thinking developed for animals and nature, not entirely meant at all for humans.
+
+Social Darwinism would pervert this idea rather than individuals. Instead, it would start from “races” first. It would select and judge entire races and give them traits rather than focus on select individuals in that “race.” Worse yet, it would also then be used to judge entire nations based on those races within its population to determine what nations ranked higher or lower on a false scale. The lower nations would be prime targets to be conquered or dominated, and the higher was to be less trifled with. This ideology was used heavily to entirely label swaths of people as savages and would blend into all of the previous reasons above. 
+
+The last reason was wanting to spread Christianity. While the majority of Imperialists would use Christianity as a further tool to deem people savages (heathens) or not, there was also a genuine desire behind a select group of Christians to actually assist what they viewed as lesser nations. Instead of conquering, these groups would go to the regions to teach techniques as well as technology to others, all while spreading “The Good Word.”  Even so, the majority of this was perverted to justify the coming imperialistic actions that would occur across the globe.
+
+### 8.2 State Expansions
+
+Of all the imperialistic powers during this time period, Britain was the most dominant and largest of them all across the globe. Its sheer scale was so massive the old saying was that the sun would always be shining on Britain somewhere. This was a play on the time zones that existed and just how far and wide Britain would come to have expanded. 
+
+The United States would also expand downward during this time period under the belief of Manifest Destiny. Manifest Destiny was a belief that The United States was destined by God to spread across the whole of The North American Continent. This would lead America into conflict with Mexico and various other regions nearby, but ultimately Manifest Destiny would result in The United States having our fifty states of today. 
+
+A pure display of the sheer lack of regard for native involvement could be seen in a conference that was held by all Imperialistic Nations known as The Berlin Conference. The Berlin Conference was conveyed by Otto Von Bismark of Germany, and in it, they would discuss and carve out 
+
+Africa amongst one another, making a rough map estimate on how they would all conquer and control Africa. Of the notable attendees, of course, not a single African leader was actually present. Only Imperialist powers were present. 
+
+As a result of this conference, The British, French, and The Spanish gained massive amounts of land in Africa. Other nations to take land would come in the forms of Germany (of course), Italy, Belgium, and Portugal. By the time all was done, and this map was finished, very few of Independent Africa would come to exist.  
+
+### 8.3 Indigenous Responses to State Expansion
+
+Indigenous people would look at first try to respond to European imperialistic aggression with diplomacy. They would offer peace talks and discuss matters further to try and come to a reasonable conclusion. In reality, they knew that they stood little chance against their aggression which is why they would try and do things peacefully. One of the first and most notable names of such groups was the Ashanti Kingdom, which in the future would become modern-day Ghana.
+
+Unfortunately for them, The Europeans would see through the peaceful attempts and knew their “supremacy.” As such, they would respond to requests for peace and diplomatic ties with threats and demands. In many cases, many peoples would surrender, but this wasn’t always the case, as many prideful people would actually outright attempt to defend their lands to the best of their ability. 
+
+The European's ultimate advantage came in the forms of the Maxim Machine Gun, which could mow down people upon being set up. It was a powerful encampment weapon that was used all throughout imperialistic actions and efforts. 
+
+Defending their lands would come with varying results depending on the people that we were talking about. Starting with successes, Ethiopia which had developed and obtained their own versions of The Maxim Machine Gun, which would come to great success in defense of their lands. The Battle of Adwa against The Europeans would allow Ethiopia to obtain a decisive victory against The Italians. 
+
+The Zulu people were demanded by The British to disband their troops and surrender their lands. Seeing this, The Zulu people would decline forcefully, defending their lands with sheer numbers and old-school warfare tactics. While bloody for both sides, in the end, The British would achieve victory against The Zulu. Bringing them into their owned colonies. 
+
+Coming back now to the Ashanti Kingdom, The British would respond to their requests with peace with violence and would end up exiling their Queen Mother. They would also demand to take The Golden Throne, a sacred object to the Ashanti people. Due to this insolence and sheer lack of respect for the Ashanti Kingdom, Yaa Asantewaa, the new Queen Mother referred to in history as “The Warrior Queen Mother,” would rally her people to fight off against The British. This would trigger the Yaa Asantewaa War. In the end, however, The British would win, and The Warrior Queen would too be exiled. 
+
+The Sepoy Revolt of 1857 would occur in India. The British East India Trading Company had begun to use pig and cow fat cartridges, and the local Sepoy people saw this as an affront to their religions. Finding out about this, they would initiate a full-on revolt against The British company. However, in the end, The British would slaughter thousands of The Sepoy and also, as a result of these actions, exile The Mughal Ruler of the country. 
+
+Some indigenous people would turn to religious and spiritual beliefs. The Cattle Killing Movement was a group of indigenous people who believed that if they killed all their cattle that their ancestors would return from the grave and rise up to help them reclaim their lands. However, not only would this fail, but due to the killing of all their cattle, the people would starve afterward. 
+
+Another group, known as The Ghost Dancers, would turn to their religious beliefs. They believed that by performing The Ghost Dance, their ancestors would return to their lands and help them repel the invaders. However, The British would also put down this group of people as well slaughtering many and all of them. 
+
+The Indigenous response is sadly many times one of prideful defenses of their lands, bravely fighting to defend what was theirs but sadly meeting a defeat at the hands of their enemies. Technology would indeed prove to be the deciding factor on who would hold power and would have the right to govern themselves as they saw fit. 
+
+### 8.4 Global Economic Developments
+
+The real story of this time period was the global boom that would occur for all Imperialist Nations. The primary reason for this actually had nothing yet to do with imperialism. The primary reason was that even nation that would be imperialist by nature was also an industrialized nation, and as discussed in the previous chapter, this would only massively make economies boom. However, now combining that with the imperialist actions that these nations would take would result in these nations booming even further at the expense of nations that these nations would view as “The Third World.” In a sense, at a national level, the rich would get richer, and the poor would get poorer. 
+
+Into specifics, The British would begin to try and carve out lands within China, which up to that point had failed to industrialize. The Qing Dynasty was still the force in power of the nation at the time of these actions. The Qing, much like Japan, was still heavily isolationist and wanted little to do with colonial empires, so they would shoo off any and all attempts of trade or other deals offered. In response to this, The British would become drug dealers. 
+
+Opium is a highly addictive non-synthetic narcotic that is extracted from the poppy plant. Opium is a depressant drug, which means it slows down the messages traveling between your brain and body. The British would begin to sell opium to the Chinese people without the permission of The Qing government. In response, The Qing would destroy 20,000 chests full of opium. 
+
+As a result of the destroyed opium, like with The Boston Tea Party, The British would respond with conflict. The Opium Wars would begin as a series of conflicts between the two forces, and eventually, The Qing would not only be pushed back but would be outright defeated by The British. 
+
+The Treaty of Nanjing was made in response to The Chinese defeat by The British and was horrible for The Chinese people. Signed on August 29, 1842, China would pay The British an indemnity, ceded the territory of Hong Kong, and agreed to establish a “fair and reasonable” tariff. It was the first of many unfair treaties which The Qing would be forced to sign in order to survive the repercussions of The Opium Wars. 
+
+As a result of The Qing’s failures, The Chinese people grew angry, and so The Taping Rebellion went into full swing. The British, however, preferring The Devil they know, would side with The Qing and help to put down this revolt by force. 
+
+The Boxer Rebellion, meanwhile, was an anti-imperialistic movement of people that was famous for its marital artist's skills. Called The Society of The Harmonious Fist. They would attack all Westerners. They weren't very successful in their efforts, however. 
+
+Faster communication technologies developed in the industrial revolution would allow for better relaying of orders and thus far more organized forms of conquering lands. The massive improvements to ships now made of steel and with steam engines inside would allow for empires to travel at extreme speed compared to the old wooden ships. Then, railroads such as The Trans-Siberian Railroad made by Russia previously would allow for much faster troop deployment and movements along regions in which they wanted to conquer. 
+
+### 8.5 Economic Imperialism
+
+Economic Imperialism was primarily used for the benefit of money but also the collection of resources. Not all nations, however, would be the same as geography would play a role in what resources nations would have. As such, different nations would want different resources from those that they sought to conquer. 
+
+In India, most nations would want cotton for the use of their textiles. In Latin America, they would go after primarily Silver. In Peru and Chile, they would go for Guano. 
+
+In the Amazon and Central Africa, they would primarily go for Rubber. Whereas in West Africa, they would take Palm Oil. In Central Africa, they would collect Ivory. Then finally, in South Africa, they focused heavily on the collecting of Diamonds. 
+
+They would obtain these resources and many more, which would boost their economies greatly at the cost of human suffering from the nations that would be imperialized as the care for native populations was extremely low.  
+
+### 8.6 Causes of Migration in an Interconnected World
+
+Yet another consequence of the industrial revolution. Due to the nature of new transportation methods being so fast and also being able to carry so many people, even larger quantities of people in droves would begin to move into and settle in now fully developed cities. Many people would migrate due to labor systems or job opportunities. 
+
+In order to accommodate for this vast new set of migrations and new waves of people, more food would be needed. The European solution to this was to encourage immigrants to come into their countries, and then they would hire them for cheaper than usual to work in the fields. These fields that had once been worked by slaves would be worked by these new immigrants as slavery would end up abolished globally in the year 1865 in The United States. Europeans ended the practice earlier. 
+
+A majority set of people would go to locations during this time period. The Indians would go to the British Colonies to work. The Chinese would come to The United States. The Japanese, meanwhile, would spread out to three countries. Those countries are Hawaii, Cuba, and Peru. 
+
+With these new waves of immigrants would come to a new economic system for a time known as indentured servitude. The idea of this was for a certain amount of years, someone would work without wages, and when this was completed, they would be free. This would come in large part to replace slavery as the new form of control. 
+
+Another type of labor system was that of Contract Labor. The idea was that contracts would be set up (usually unfairly set) and then tricked primary Asian Immigrants who had signed these contracts would get a raw deal by the time it was over. These laborers were mostly used on sugar plantations. 
+
+Both systems, while not necessarily slavery, would end up seen as the replacement and an almost “new form” of slavery by even governments. Not just socially with people, and so it too would eventually be entirely outlawed. Leaving only low-wage jobs available for incoming immigrants. 
+
+Many people would also leave their home country, not just for economic reasons. Many would leave their home countries due to national poverty, political unrest, or even, in some cases, famine. All would come in search of a better, safer, and more secure life in these newly industrialized countries and usually find themselves ending up working for extremely low-wage work. This would end up leading to a diaspora of huge swaths of groups.
+
+
+1.5 million Indians would leave indentured servitude and come into the United States as full-on citizens. The Chinese would leave for all reasons, plus the Taiping Rebellion. The Irish would mostly travel due to political tensions caused by the unification of Ireland and UK. Then add in the Potato Famine.
+
+### 8.7 Effects of Migration 
+
+As a result of all the migrations that would occur in this time period, gender roles in families would once again change drastically. The male relative would support the women who didn't migrate with their fathers, who would go off to work. This would become quite common. Most migrants would send remittances, aka a portion of their earnings, back home.
+
+As these large-scale migrations would occur, a new type of settlement within a settlement would occur. They called these: Ethnic Enclaves. Ethnic Enclaves served as sections of geographical locations that would then become a singular ethnic identity as well as tended to focus on economic activity. Example: Chinatown. Ethnic Enclaves exist even now and can be found in many modern-day cities. The Irish were huge at doing this as well, and The Irish would be hugely influential behind the labor union movements and such that would come into play.
+
+Many of these migrations would result in a large-scale amount of discrimination. The US Chinese Exclusion Act of 1882 would ban Chinese from government jobs and would eventually not allow them to become citizens, and Chinese residents would be removed or isolated completely. Lasted until 1943. Australia would mirror this with the Australian Chinese Immigration Act of 1865. White Australia policy would last until the 1970s, and its goal was to preserve a white Australia above all else.
+
+# Part 5: c. 1900 to Present
+
+## Chapter 9: Global Conflict (8-10% of the test)
+
 **More here later after I verify I should continue.** 
 
