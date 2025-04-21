@@ -2,13 +2,106 @@
 
 # AP World History Study Guide
 
-## Note 
+## Portfolio Note 
 
 The below is a recreation of a project I worked on as a ghost writer and has all company information as well as specfic formattings removed. Any images that are company property have also been removed. 
 
 # Table of Contents
 
-**Will make here when full document is done here.** 
+- [AP World History Study Guide](#ap-world-history-study-guide)
+  * [Portfolio Note](#portfolio-note)
+- [Table of Contents](#table-of-contents)
+- [Part One: General Information](#part-one-general-information)
+  * [Chapter 1: Introduction](#chapter-1-introduction)
+    + [1.1 About the Exam](#11-about-the-exam)
+    + [1.2 Structure of the Exam](#12-structure-of-the-exam)
+    + [1.3 Scoring](#13-scoring)
+    + [1.4 Test-taking Tips and Strategies](#14-test-taking-tips-and-strategies)
+  * [Chapter 2: Foundations](#chapter-2-foundations)
+    + [2.1 Governance](#21-governance)
+    + [2.2 Geographic Orientation](#22-geographic-orientation)
+    + [2.3 Cultural Developments and Interactions](#23-cultural-developments-and-interactions)
+    + [2.4 Technology and Innovations](#24-technology-and-innovations)
+    + [2.5 Economic Systems](#25-economic-systems)
+    + [2.6 Social Interactions and Organizations](#26-social-interactions-and-organizations)
+    + [2.7 Humans and the Environment](#27-humans-and-the-environment)
+- [Part Two: c. 1200 to c. 1450](#part-two-c-1200-to-c-1450)
+  * [Chapter 3: The Global Tapestry (8-10% of the test)](#chapter-3-the-global-tapestry)
+    + [3.1 Developments in East Asia](#31-developments-in-east-asia)
+    + [3.2 Developments in Dar al-Islam](#32-developments-in-dar-al-islam)
+    + [3.3 Developments in South and Southeast Asia](#33-developments-in-south-and-southeast-asia)
+    + [3.4 State Building in the Americas](#34-state-building-in-the-americas)
+    + [3.5 State Building in Africa](#35-state-building-in-africa)
+    + [3.6 Developments in Europe](#36-developments-in-europe)
+    + [3.7 Comparisons in the Period](#37-comparisons-in-the-period)
+  * [Chapter 4: Networks of Exchange (8-10% of the test)](#chapter-4-networks-of-exchange)
+    + [4.1 The Silk Roads](#41-the-silk-roads)
+    + [4.2 The Mongol Empire and the Making of the Modern World](#42-the-mongol-empire-and-the-making-of-the-modern-world)
+    + [4.3 Exchange in the Indian Ocean](#43-exchange-in-the-indian-ocean)
+    + [4.4 Trans-Saharan Trade Routes](#44-trans-saharan-trade-routes)
+    + [4.5 Cultural Consequences of Connectivity](#45-cultural-consequences-of-connectivity)
+    + [4.6 Environmental Consequences of Connectivity](#46-environmental-consequences-of-connectivity)
+    + [4.7 Comparison of Economic Exchange](#47-comparison-of-economic-exchange)
+- [Part 3: c. 1450 to c. 1750](#part-3-c-1450-to-c-1750)
+  * [Chapter 5: Land-Based Empires (12-15% of the test)](#chapter-5-land-based-empires)
+    + [5.1 Gunpowder Empires](#51-gunpowder-empires)
+    + [5.2 Europe](#52-europe)
+    + [5.3 Russia](#53-russia)
+    + [5.4 East Asia](#54-east-asia)
+    + [5.5 Islamic Gunpowder Empires](#55-islamic-gunpowder-empires)
+    + [5.6 Administration](#56-administration)
+    + [5.7 Belief Systems](#57-belief-systems)
+    + [5.8 Comparison to Land-Based Empires](#58-comparison-to-land-based-empires)
+  * [Chapter 6: Transoceanic Interconnections (12-15% of the test)](#chapter-6-transoceanic-interconnections)
+    + [6.1 Technological Innovations](#61-technological-innovations)
+    + [6.2 Explorations: Causes and Events](#62-explorations-causes-and-events)
+    + [6.3 Columbian Exchange](#63-columbian-exchange)
+    + [6.4 Maritime Empires Established](#64-maritime-empires-established)
+    + [6.5 Maritime Empires Maintained and Developed](#65-maritime-empires-maintained-and-developed)
+    + [6.6 Internal and External Challenges to State Power](#66-internal-and-external-challenges-to-state-power)
+    + [6.7 Changing Social Hierarchies](#67-changing-social-hierarchies)
+    + [6.8 Continuity and Change](#68-continuity-and-change)
+- [Part 4: c. 1750 to c. 1900](#part-4-c-1750-to-c-1900)
+  * [Chapter 7: Revolutions (12-15% of the test)](#chapter-7-revolutions)
+    + [7.1 Age of Enlightenment](#71-age-of-enlightenment)
+    + [7.2 Nationalism and Revolutions in the Period](#72-nationalism-and-revolutions-in-the-period)
+    + [7.3 Industrial Revolution](#73-industrial-revolution)
+    + [7.4 Industrialization Spreads in the Period](#74-industrialization-spreads-in-the-period)
+    + [7.5 The Technology of the Industrial Age](#75-the-technology-of-the-industrial-age)
+    + [7.6 Industrialization: Government’s Role](#76-industrialization-governments-role)
+    + [7.7 Economic Developments and Innovations in the Industrial Age](#77-economic-developments-and-innovations-in-the-industrial-age)
+  * [Chapter 8: Consequences of Industrialization (12-15% of the test)](#chapter-8-consequences-of-industrialization)
+    + [8.1 Rationales for Imperialism](#81-rationales-for-imperialism)
+    + [8.2 State Expansions](#82-state-expansions)
+    + [8.3 Indigenous Responses to State Expansion](#83-indigenous-responses-to-state-expansion)
+    + [8.4 Global Economic Developments](#84-global-economic-developments)
+    + [8.5 Economic Imperialism](#85-economic-imperialism)
+    + [8.6 Causes of Migration in an Interconnected World](#86-causes-of-migration-in-an-interconnected-world)
+    + [8.7 Effects of Migration](#87-effects-of-migration)
+- [Part 5: c. 1900 to Present](#part-5-c-1900-to-present)
+  * [Chapter 9: Global Conflict (8-10% of the test)](#chapter-9-global-conflict)
+    + [9.1 Shifting Powers](#91-shifting-powers)
+    + [9.2 Causes of World War I](#92-causes-of-world-war-i)
+    + [9.3 How World War I Happened](#93-how-world-war-i-happened)
+    + [9.4 Economies in the Interwar Period](#94-economies-in-the-interwar-period)
+    + [9.5 Unresolved Tensions After World War I](#95-unresolved-tensions-after-world-war-i)
+    + [9.6 Causes of World War II](#96-causes-of-world-war-ii)
+    + [9.7 Conducting World War II](#97-conducting-world-war-ii)
+  * [Chapter 10: Cold War and Decolonization (8-10% of the test)](#chapter-10-cold-war-and-decolonization)
+    + [10.1 Setting the Stage for the Cold War and Decolonization](#101-setting-the-stage-for-the-cold-war-and-decolonization)
+    + [10.2 The Cold War and Effects of the Cold War](#102-the-cold-war-and-effects-of-the-cold-war)
+    + [10.3 Spread of Communism](#103-spread-of-communism)
+    + [10.4 Decolonization](#104-decolonization)
+    + [10.5 Newly Independent States](#105-newly-independent-states)
+  * [Chapter 11: Globalization (8-10% of the test)](#chapter-11-globalization)
+    + [11.1 Advances in Technology and Exchange](#111-advances-in-technology-and-exchange)
+    + [11.2 Technological Advances and Limitations: Disease](#112-technological-advances-and-limitations-disease)
+    + [11.3 Technological Advances: Debates About the Environment](#113-technological-advances-debates-about-the-environment)
+    + [11.4 Economics in the Global Age](#114-economics-in-the-global-age)
+    + [11.5 Calls for Reform and Responses](#115-calls-for-reform-and-responses)
+    + [11.6 Globalized Culture](#116-globalized-culture)
+    + [11.7 Resistance to Globalization](#117-resistance-to-globalization)
+
 
 # Part One: General Information
 
@@ -78,7 +171,7 @@ Fascism: Fascism takes that concept of “The Other” all the way back from Hun
 
 Democracy: A rather new invention in which most societies in our modern era have tried to adopt in some form. However, in truth, no society has successfully adopted a pure form of Democracy, or a “Direct Democracy” as it’s come to be called. For example, our own United States is a hybrid of both the Republic system and the Democratic system alike. Democracy, in essence, is the belief that for every living soul, they shall have a voice. One vote. This turns power instead of a might versus right battle that occurs with every other system, instead, into a battle of the mind. A battle of arguments. Power is achieved, in essence, from convincing people rather than pointing weapons at them. A major pro to this is that under a Democracy comes great power in each and every one of its citizens. For its leader and many decisions as such are chosen by that of the citizens themselves within that society. A major con of this, like the Republic, is the speed at which it operates but at an even greater level. It also, however, comes in the form of the “tyranny of the majority.” For in a true direct democracy, any issue is on the table to be voted on by the people. Any and each will come down to a vote, and the majority thinking idea will come out on top. That doesn’t always mean “the morally right” idea. 
 
-### 2.2.	Geographic Orientation
+### 2.2 Geographic Orientation
 
 Geography, while it may seem at first unimportant in the grand scheme of things, is actually critical to all cultures and nations. Does your nation sit in a desert? You might have water issues, and so issues may arise with the water supply that requires far more advanced solutions. Giant bodies of water separate you, and where do you want to go? Is this the end? Heavens, no, let’s make a boat! Such as the Chinese “Junk,” as it was called.
 
@@ -88,7 +181,7 @@ Tectonic plates across the world slowly shift and change, moving land masses acr
 
 As we move along in this guide, always take some time to immerse yourself in the geography. It doesn’t have to be long but truly let your brain comprehend the sheer differences between your household compared to the culture you are trying to study. It will make things far easier as you go along. 
 
-### 2.3. 	Cultural Developments and Interactions
+### 2.3 Cultural Developments and Interactions
 
 From even the earliest times, culture as we know it, even in today's modern era, has always existed in some form or another. From pottery, as we would now call: Art, to forms of songs played on instruments long since out of use, humanity has always been constantly interacting with one another. 
 
@@ -116,7 +209,7 @@ Christianity: Take all that was said about Judaism and now instead add in Jesus 
 
 Islam: The youngest of the three major monotheistic religions, Islam follows many of the same teachings as Judaism, but instead of Jesus being their primary figure, the Prophet Muhammad instead was their leader.  While meditating in 610 C.E, Muhammad stated that he had heard the words and seen a vision from the Archangel Jibril. Giving him the word of Allah (God). They believe in the Five Pillars of Faith. 
 
-### 2.4.	Technology and Innovations
+### 2.4 Technology and Innovations
 
 From the discovery of fire to our modern inventions today, humanity has always been an ever-evolving and ever-growing species. Some of the most notable would be that of metallurgy, which allowed for the transition from basic stone tools to more advanced metal tools that were even used in the form of swords and various other medieval weapons in our C.E timeline. These came into major use in 4000 – 3000 B.C.E. Think of all those millions of years as such in which we as humans had to use nothing more than stone! Iron came at around 1200 B.C.E whereas before; most tools were of bronze make. 
 
@@ -130,7 +223,7 @@ While the Printing Press technology was a major innovation, it is must newer tha
 
 Where humanity found needs and found struggles, humanity would always find a way to improve. This, if nowhere else, can best and always be seen in the things that we as humans have created throughout the many years that we have existed. 
 
-### 2.5.	Economic Systems
+### 2.5 Economic Systems
 
 Economic systems are as varied and evolving as humanity itself. In the millions of years that humanity has been on earth, so long as there has been something another human can do/obtain that another cannot easily or at speed needed, trade has existed. From the bartering systems of old to the more modern systems of now, economic systems have always existed in some form or another. 
 
@@ -148,7 +241,7 @@ Market Economy: Market economies are based on the idea of Free Markets. The idea
 
 Mixed System: Most modern nations today use a Mixed System. A Mixed System is a combination of both Market and Command Economies. An example of a mixed system is a heavily regulated market economy or even a middle/semi-regulated economy. As such, almost every economy in the entire world is a Mixed System at this point in time. The idea is by mixing the best of both and cutting out the worst; only the best can come from it. Others would argue otherwise. 
 
-### 2.6.	Social Interactions and Organizations
+### 2.6 Social Interactions and Organizations
 
 In our modern-day life, social structures are things we as humans grasp in seconds and give little thought to. The reason being that we are living it day to day at that moment. We know what is and what is not socially acceptable. For the sake of history, however, and going back in time to gleam the gems of the past, we must understand the past social structures and organizations; we much analyze them, and to do so can take some time to achieve. 
 
@@ -160,7 +253,7 @@ Social classes tended to exist in all societies, even hunting-gathering ones, bu
 
 How did the society view “The Other,” as in those from outside the nation or those whom they viewed as ethnically different? The Fascists thought such things should be removed by the most disturbing of methods. Other cultures embraced their diversity. Though, that mostly hasn’t happened until our modern era. Still, some levels of comfort came to certain groups that didn’t exist elsewhere. For example, in Islam, it is said that women, at the time of the founding of the religion, had a more equalized lifestyle as opposed to other religions. The question then becomes, why? Was it by design, or was it by sheer coincidence? Circumstances of the times, perhaps? 
 
-### 2.7.	Humans and the Environment
+### 2.7 Humans and the Environment
 
 The tale of the environment and humans is an interesting one. For in truth, we want from being dictated by the environment to living with it and then conquering it in our modern times. To the point now where we can influence the environment to such a degree that we can cause what now has come to be known as “Man Made Natural Disasters.” 
 
@@ -172,7 +265,8 @@ Later, as our methods of resource extraction became more intense, so too did the
 
 # Part Two: c. 1200 to c. 1450
 
-## Chapter 3: The Global Tapestry (8-10% of the test)
+## Chapter 3: The Global Tapestry 
+**(8-10% of the test)**
 
 ### 3.1 Developments in East Asia
 
@@ -253,7 +347,8 @@ The Empire: East Asia is heavily dominated by a great Empire known as a Dynasty 
 
 The Divided: Europe is scattered, fragmented, and in many ways in turmoil due to the fighting and divisions in religions, political power, and even regal power. Everywhere you go in Europe, everything is divided. Even in the most basic labor sense, there are different classes, and thus so, divisions in Europe between those allowed “free labor” and Coerced Labor. While diversity isn’t always a bad thing, in many ways, this manifested badly in Europe to create great chaos that resulted in many deaths and much damage across the region. Yet despite all of this, the one thing that Europe was not divided in on the world stage was being alone region-wise. Europe is, without a doubt, the most divided in this time period.
 
-## Chapter 4: Networks of Exchange (8-10% of the test)
+## Chapter 4: Networks of Exchange 
+**(8-10% of the test)**
 
 ### 4.1 The Silk Roads
 
@@ -334,7 +429,8 @@ The Trans-Saharan Trade Routes: Tended to deal with the transfer of metals such 
 
 # Part 3: c. 1450 to c. 1750 
 
-## Chapter 5: Land-Based Empires (12-15% of the test)
+## Chapter 5: Land-Based Empires 
+**(12-15% of the test)**
 
 ### 5.1 Gunpowder Empires
 
@@ -472,7 +568,8 @@ Whereas Land Based Empires would and could battle over nearly anything with one 
 
 Whereas The Land Based Empires had begun a new adventure: Industrialization. The Gunpowder Empires failed to do this as soon as the other Land Based Empires, and this would result in Europe attaining global dominance over the world stage. Despite this, Russia was able to industrialize as well, making it one of the few in the region to enter the next age with the Europeans. 
 
-## Chapter 6: Transoceanic Interconnections (12-15% of the test)
+## Chapter 6: Transoceanic Interconnections 
+**(12-15% of the test)**
 
 ### 6.1 Technological Innovations 
 
@@ -570,7 +667,8 @@ While many empires had fallen and risen, Europe had gone from a disunified mess 
 
 # Part 4: c. 1750 to c. 1900
 
-## Chapter 7: Revolutions (12-15% of the test)
+## Chapter 7: Revolutions 
+**(12-15% of the test)**
 
 ### 7.1 Age of Enlightenment
 
@@ -730,7 +828,8 @@ European imperialism would rear its ugly head once more as nations that it would
 
 This would lead to many “dependent nations.” These were nations that rallied on the imports of other nations to even develop in any meaningful way. This is where the concept of “The Third World” would begin to slowly take shape. 
 
-## Chapter 8: Consequences of Industrialization (12-15% of the test)
+## Chapter 8: Consequences of Industrialization 
+**(12-15% of the test)**
 
 ### 8.1 Rationales for Imperialism
 
@@ -849,7 +948,8 @@ Many of these migrations would result in a large-scale amount of discrimination.
 
 # Part 5: c. 1900 to Present
 
-## Chapter 9: Global Conflict (8-10% of the test)
+## Chapter 9: Global Conflict 
+**(8-10% of the test)**
 
 ### 9.1 Shifting Powers
 
@@ -985,7 +1085,8 @@ When WWII ended, the United Nations (U.N.) was created to try and stop any furth
 
 In Cambodia, meanwhile, they tried to create a Cambodian master race, and so to do this would begin the Cambodian Genocide. The Khmer Rouge would commit to this and would end up killing thousands once again. The United Nations was greatly challenged in this regard as they would try but often fail to stop such horrific acts. Still historically trending, genocides overall have gone down since the creation of The United Nations. 
 
-## Chapter 10: Cold War and Decolonization (8-10% of the test)
+## Chapter 10: Cold War and Decolonization 
+**(8-10% of the test)**
 
 ### 10.1 Setting the Stage for the Cold War and Decolonization
 
@@ -1137,7 +1238,8 @@ These were examples of how decolonization didn't always work for the better of n
 
 Countries were not the only issue as now a new form of weapon had been unleashed upon the world, and that name was terrorism. Terrorism was the use of violence or threats to achieve political means. This would be no better seen in Al Qaeda. Led by Osama Bin Laden and using the weapons and technology we had provided them, Osama’s forces would terrorize the world and, most famously in The United States on September 11th, 2001, would be instrumental in the planning and executing of the horrific events of 9/11. Killing thousands and doing major damage to cities and locations across The United States. This was the first major force to achieve this, and it would only be the beginning.
 
-## Chapter 11: Globalization (8-10% of the test)
+## Chapter 11: Globalization 
+**(8-10% of the test)**
 
 ### 11.1 Advances in Technology and Exchange
 
@@ -1229,9 +1331,5 @@ Another group that is resisting globalization (though they would not frame it as
 
 Another type of resistance would come from nationalists of both the ultra and healthy moderate level. Moderates believe that borders should remain and that state laws always supersede that of the global order. For example, The United Nations, in many instances, would condemn the United States under President Trump and cite violations of United Nations laws that they would be engaged in. However, a nationalist would view these laws as illegitimate, and to some extent, this is indeed fact, as all nations, to an extent, would have their laws supersede that of The United Nations. Some nations, however, would try and mold their laws based on The United Nations, and this is where the debate and arguments would come in. 
 
-In the years coming into the election of Joe Biden, globalization, in many ways, has begun to be scrutinized and heavily examined as potentially negative or positive. In actuality, however, it is fair to say that this was simply the natural way in which humans and technology together would end up evolving and coexisting together. To change such would be the change the natural way of things in favor of a new imagined order. This has happened many times in history. We call this: Culture, and as such, it is nowhere near bad. However, at present, at least, it seems like globalization is here to stay and won’t be going anywhere anytime soon. 
-
-
-
-**More here later after I verify I should continue.** 
+In the years coming into the election of Joe Biden, globalization, in many ways, has begun to be scrutinized and heavily examined as potentially negative or positive. In actuality, however, it is fair to say that this was simply the natural way in which humans and technology together would end up evolving and coexisting together. To change such would be the change the natural way of things in favor of a new imagined order. This has happened many times in history. We call this: Culture, and as such, it is nowhere near bad. However, at present, at least, it seems like globalization is here to stay and won’t be going anywhere anytime soon.
 
