@@ -572,5 +572,165 @@ While many empires had fallen and risen, Europe had gone from a disunified mess 
 
 ## Chapter 7: Revolutions (12-15% of the test)
 
+### 7.1 Age of Enlightenment
+
+The Age of Enlightenment was a period in time in which everything of how society had been running up to this point was now being questioned. It was the beginning of where many of our modern ideas began to take shape and form into a coherent line of thought. Collectively the world began to question things such as slavery, women’s rights, The Devine Right, and Monarchies in general. All of it began to enter the scope of questioning. Interestingly enough, however, it turns out that the majority of all Enlightenment key texts were printed previously and weren’t actually written in this new Age that was beginning to take shape. While there were many philosophers and scholars of note during this Age of Enlightenment, in this text will be mentioned the key ones of most importance and relevance to our modern history as well as to key events that would occur in response to this age. 
+
+John Locke spoke about the natural rights of human beings. Natural rights were different than written rights. Natural rights were things that would exist in nature without any form of influence. Others call them inalienable rights, such as within our own United States Constitution. More on that later, though. Along the same vein, however, and of important note was John Locke’s speaking of a people to overthrow a corrupt or tyrannical government should the need and requirement arise within a society. 
+
+Rousseau would take John Locke’s philosophy of Natural Rights and make the argument that for the good of society, some of those natural rights should be curbed. This would benefit and safeguard a community. This idea was that of the Social Contract. An invisible contract that every citizen who willingly allows themselves to be ruled by a government makes with said government. Examples of this social contract in action would be speed limits on roads. Speed is limited, and thus, your rights are curtailed in the name of keeping everyone safe and healthy. For example, if you are too speedy, you are more likely to get into accidents, and if everyone did that (speeding), then accidents would be frequent. Essentially without Rousseau, there could never be a legitimate government in existence. 
+
+Montesquieu would write about the separation of powers, and they primarily would boil down to what we in the United States would use today. Those powers were that of The Executive, a figurehead leader of the military who had emergency powers to act swiftly when a vast Republic would be too slow to do so. The Legislative served as what we would call: Congress. The Lawmaking body where all ideas would come forth. Finally, there would be the Judicial Branch which would interpret the laws and ensure they were constitutional and within the spirit of the citizen's best interests. It would also serve as the chief justice branch of all courts. 
+
+Voltaire, meanwhile, would write about the freedom of speech as an all-time important right to be maintained. He also wrote about the importance of religious toleration and respect for those who believed as they did. 
+
+All of these philosophers were key instruments in the coming revolutions that would soon take shape across this era around the entirety of the world. 
+
+### 7.2 Nationalism and Revolutions in the Period
+
+The Age of Enlightenment was the catalyst for a growing sense of discontent with the status quo, and this would manifest itself in several “revolutions” that would take place and would forever change the entire world forever. 
+
+In an age of Imperialism combined with that of Nationalist expansion interests for the Maritime Empires of Europe, a resistance was beginning to stir within The Americas. A question began to arise about the social contract set up between that of a nation an ocean away and that of their own colonies set up in the Americas. Eventually, however, this would come to a head. 
+
+The British had gone to war with both The French, who were supporting Indian Insurgents who meant to oppose The British rule of their colonies and expanding territories. In response to this, however, The British were left with massive wartime debts that needed to be settled, and they had little means of doing under the current systems. So, the final nail in the coffin was struck. The British raised taxes on the colonists as a means to try and recover some of the wartime damages that they had been dealt. They did this in the form of the Stamp Act and the Revenue Act. The Colonists came to see this as taxation without representation, and so the match was lit. 
+
+The idea behind Taxation Without Representation was thus: The Colonists were paying not just taxes but increased taxes without any form of rights within the government that was running the show and dictating how to run their lives. The psychological and literal factor of this nation being an ocean away in a time when it could take months for ships to arrive left The Colonists with a strong sense that they could get away from this system, and so it had begun. 
+
+The first act of rebellion and the true way that this all started was an event known as The Boston Tea Party. The Boston Tea Party was a day in which The Colonists came together and dumped all the British Tea into the ocean as an act of defiance to the government. In response, the British Would begin a series of actions to try and scare The Colonists, but in the end, they would not be perturbed, and they would publish directly to the King of England, The Declaration of Independence. A formal document declaring their independence from England. England would respond by beginning what is known as in American History as The Revolutionary War, but to the world, this would be known as The American Revolution. 
+
+In the chaos that would ensue involving this war, The French would find themselves allying once again with The Colonists in order to spite Britain. A form of vengeance for their failures in the Indian War. 
+
+In the end, The Revolutionary War would end in the now formalized United States of America breaking away from the mother country of Britain. The Articles of Confederation failed, and so they instead formalized and created The Constitution of The United States and passed The Bill of Rights, which serves as the first ten amends. Among them of note were The Freedom of Speech and Religion and the right to bear arms to defend themselves from the form of a tyrannical government that could come even from themselves. Formally enshrining many of the Enlightenment ideas into law. They also would create the three branches of government discussed prior in their exactness into their actual means of running the country itself. 
+
+The American Revolution, however, would not be the only revolution. In fact, it would serve as a catalyst and inspiration for many other revolutions across the world that would begin against The Maritime Powers of Europe. 
+
+After The American Revolution would come that of The French Revolution, and in part, it was heavily inspired, in fact, by the spirit of The American Revolution.  
+
+France was in hard times. They were experiencing severe financial difficulties due to the loss of The 7 Years' War, The Indian Wars (Native American Forces in The Americas), and their support of the forming of The United States of America. France, in fact, had sent for aid from that newer United States, but The United States saw only chaos and issues that would come out of it, which in history they would prove to be correct in that fear and assumption. 
+
+The Financial Crisis of their war debts would end up creating extreme food shortages in the country. These Food Shortages would result in revolts and riots demanding for this issue to be solved, and so a meeting of The Estates General was called.
+
+Before continuing, The French Estates were a set of classes for the people of France, and everyone fell into one of them. In total, there were Three Estates. The First Estate was that of the clergy. The Second Estate was that of the nobility, and The Third Estate was that of the commoners. The Estates each had a representative in their system of government that was supposed to advocate for them on their behalf. 
+
+However, when The Estates General meeting was called, the solution they came up with was to raise taxes on The Third Estate. Having been already suffering from food shortages and hard economic times, this only exasperated the problem and The Third Estate went into full revolt. 
+
+The Third Estate would meet on The Tennis Court, and so The Tennis Court Oath was now taken. A National Assembly was formed, and The French Revolution was in full swing. Their goal was the establishment of what they viewed to be that of a modest proposal. Whereas The Americans would end up going for a full republic, The French People would demand that of a constitutional monarchy. A hybrid system that would keep the nobility intact but at great power lost to them. 
+
+There was much chaos, and many people of nobility and of any state power, in many cases, would find themselves beheaded by the angry mob of The French people. Resulting in the deaths of many and the complete and total restructuring of their governments. Many buildings were also stormed and taken out/over. They would eventually achieve their constitutional monarchy, but at this point, it would not be enough, and a new thirst for bloodshed would reign. They now wanted a full-on Republic, just as The United States had achieved. They called this period of time: “The Reign of Terror” due to just how much fear was in the streets. 
+
+In history, this revolution is seen as a toss-up or “gray” on whether or not it was a success or not. The sheer bloodshed was cataclysmic. They had ended The Absolute Monarchy under which they lived and obtained the constitutional monarchy but would keep going beyond their original message. Civil unrest was so high that while they would eventually, for mere moments, achieve their republic, in the end then, a new dictator in the form of Napoleon would rush the government in its early days and take over everything, bringing everything back to that of an Absolute Monarchy. 
+
+For many years there was civil unrest as the country was run by a military dictatorship by Napoleon. Napoleon; a General who wanted to conquer the world in the same vein as other famous dictators. Eventually, Napoleon would be ousted, and France would then come to return to a constitutional monarchy system. In that sense, the originalists of the revolution had obtained their victory in the end. However, there were so many voices, so much chaos, and so many complicated events that occurred in this revolution; it’s fair to say that those that committed to the actual acts of the revolution itself didn’t all win. It was a compromised victory in the end for the originalists though even they couldn’t be called a clear winner. No one could. 
+
+The Haitian Revolution was inspired by The Enlightenment ideas that no man should be enslaved. Much in the spirit of The United States, All Men Are Created Equal line of logic. This revolution would occur at the same time as The French Revolution, meaning that two revolutions simultaneously would occur at the same time. It would see the success of the previous American Revolution and so would pave a blueprint for how to fight what The Haitians would view as their Colonist Oppressors. 
+
+The Haitian Revolution started as a slave revolt and so would find itself where most slave revolts would occur; at the plantations. Enslaved populations were extremely high, at a staggering 450,000 estimated at least. However, White (Colonist) populations only numbered 4000. Meaning that the slaves had a massive numbers advantage. Call it a superiority complex due to technology; whatever reason, you try to justify it as it was a massive mistake to leave such a massive disproportion. 
+
+Among The Haitian people was also a group of mixed-race people known as Mulattoes. Mulattoes were mixed race, born to one white and one black parent. The Mulattoes would number 20 thousand. They tended to be very wealthy and well-off. Even so, there tended to be tensions between this group and The Colonists. 
+
+Tactically, The Haitian Revolution was heavily inspired by The American Revolution in that they fought many battles in the same style. Ambushes. Guerrilla warfare in their combat against The French. This would prove as effective as it was on The British. 
+
+Toussaint Louverture started off as enslaved but eventually became a part of the freed black population. He would lead the revolt and the entirety of the revolution as its most effective leader. For American Comparisons, he would be like that of our George Washington. 
+
+Eventually, in the midst of the revolution, despite good gains and some talks about potential peace or agreements that could be made, great fear rose in The Haitian population as Napoleon had brought about tyranny. As such, due to fears of what Napoleon would do as France would cave to his leadership, Haiti went further; in fact, they went all the way. It would fully force France out and, in 1804, declared itself independent. The Independent State of Haiti. 
+
+Haiti would go on to create a Republic system in the same vein as The United States to the best of its ability. However, that ability would become hindered as The French would require indemnity payments as part of eventual treaty agreements that would end up crippling Haiti’s developments, and effects of this can still be seen even in today's modern history. 
+
+Another revolution was that of the Latin Revolution. Whereas in Haiti, former slaves had paved the way forward toward their new nation, in this revolution, The Creoles would lead the charge here.
+
+Creoles in Latin America served the same purpose and function as that of the Mulattoes in Haiti. They were mixed race. The only difference was that they were in Latin America and that this time it would be them that led the way toward revolution. 
+
+Simon Bolivar was the leader of these revolutions and envisioned a confederation of Latin American states in opposition to The Spanish Empire. While he failed to realize this dream of a confederation of states in the same vein as The United States, Simon Bolivar and his calls for revolution successfully gained independence for several now nation-states. These nations' states were: Mexico, Colombia, Venezuela, and Brazil. 
+
+The final revolution to occur was more one globally and wasn’t an actual form of “war” or gunfight. The Women’s Empowerment Revolution, or The Feminist Revolution. During this time period, women were not just considered inferior to men, but the way the laws were written in basically every country, they were even inferior on paper. Women wouldn’t have certain rights men would, such as the example of the right to vote and suffrage. As such, a feminist movement would slowly begin to grow over centuries demanding equal rights as well as the right specifically to vote in places such as America or any other Republic-style system. 
+
+The Seneca Falls convention of 1848 was a large-scale feminist convention in which they discussed various feminist topics. The audience, however, was actually heavily mixed as many male allies would show up to the event. So many, in fact, you could argue that the event had both sexes as a considerable amount. 
+
+Despite these movements across the world and a common theme shared amongst its members, it would take until our more modern history for women to actually get the right to vote, and some would even argue today that women are not equal to men as of yet due to a number of societal factors. 
+
+### 7.3 Industrial Revolution
+
+The Industrial Revolution, out of all of the previously listed revolutions, was undoubtedly globally the most important revolution to ever occur. Gone now were the days of making things with your hands, and coming now was the days of creating with the machine instead. This is considered a revolution as it changed everything about how humans would collectively organize, create, and even about what they would be fighting about. 
+
+The number of producible resources exploded in sheer quantity and quality from the use of machines. This would create new jobs as well as start booming economies with factories. 
+
+However, work conditions in those factories tended to be bad, and so oftentimes, they would go to places like pubs or other locations to “destress.” Women and children would work in these factories, and many of all groups would become injured, get sick or even die. This would increase the number of hospitals and medical areas within nearby areas. 
+
+At first, factories would tend to be close to waterways and especially rivers, as the water was required to operate much of the machinery. As such, towns and developing urban centers around these factories always needed to follow very specific sets of town blueprints to maximize the efficiency they could achieve due to the position of these waterways. 
+
+Enter 1785 with the invention of The Steam Engine by Thomas Savery, however, for the price of coal. This would allow factories to now be built anywhere and would change the layouts of developing locations even further, and allow build diversity to best deal with the terrain in which structures were built. All at the cost of fossil fuel emissions, however, that would begin to damage our planet. This would eventually lead away from the village/country lifestyle and even away from towns and instead began to favor a new type of urban center known as Cities. Modern cities as we know them now today. 
+
+### 7.4 Industrialization Spreads in the Period
+
+Industrialization would spread throughout the globe but in different ways. The following is a list of keynotes on how industrialization would spread throughout the world and using some countries are examples.
+
+In The United States, while some regulations would be forced on companies through the collective action of Labor Unions eventually also advocating for laws, for the most part, The United States would take a very Laissez Faire approach to companies and regulation. They would also have the same attitude in many ways for tax breaks for these companies as well to stimulate and encourage the economy. Even Henry Ford and Rockefeller, despite their monopolies, would take a long time to actually be regulated and proved to what extent companies could actually push things before Uncle Sam would even do anything about them. Public land would even be given away to railroad companies in order to develop railroad tracks and thus allow for even further expansion. 
+
+While this would happen for the companies, slum neighborhoods would begin to develop and become a wider scale. New immigrants to the country as well would be taken advantage of and usually hired for extremely lower wages. In exactness, this has even continued in today’s modern America as well, so it’s safe to say this is the period in which modern America was beginning to take shape. 
+
+Economy-wise, America was extremely diverse. Focusing on almost everything. Textiles, the new cars, steel. They would work on and develop anything and everything and did it fairly well. 
+
+In Russia, meanwhile, they would focus mostly on state-sponsored labor as a means to stimulate and encourage the economy. The primary means by which they would do this was the large-scale construction efforts of The Trans-Siberian Railroad. Eventually, thanks to these efforts, it would be completed. Russia’s economy was that of a “heavy industry,” meaning they would mostly focus on heavy object creations. Iron, shipbuilding, and steel would be a primary example of this. 
+
+Japan, meanwhile, at first remained heavily isolationist and resisted industrialization. However, with the sudden appearance of Mathew Perry and his “black smoke” ships to their shores from The United States of America, as well as his boasting taunts toward them, The Japanese would secretly be both impressed and also humbled. He would threaten extreme violence against them, and so they conceded they would lose, and so Japan was opened up by force. This action would result at the end of the Tokugawa Shogunate and begin The Meji Restoration, which was essentially the re-empowering of The Japanese Emperor. 
+
+With The Japanese Emperor back in place, Japan would begin to initialize state-sponsored and supported forms of industrialization. In Asia, as such, they would be one of the first to actually embrace industrialization in the time period. More than that, they would be heavily industrialized as well, putting them a league above their neighbors. 
+
+### 7.5 The Technology of the Industrial Age
+
+Technology would come in two different waves. Those waves were that of the First Industrial Revolution and then those of The Second. The keynote to tell which technology would likely fit into which is to separate the two waves like this: The First Wave was The Age of Mechanization and focused mostly on early machine creation and automation. Whereas the Second Wave could be considered The Age of Science, bringing with it chemicals, electricity, and steel.  
+
+The Flying Shuttle and the Spinning Jenny would be created to further enhance automated practices and the creation of fabrics. The Cotton Gin would assist with this as well. The biggest innovation, however, for production would come in the concept of The Assembly Line. 
+
+The Assembly Line was a technique and set of tools that would speed up the production of essentially every creation that needed to be made. A line was made, usually on a conveyor belt, and on that line, every person would have a set of tools and a job. That person would do that job, and then the item would continue down the line. In our modern age, this would change and advance to machines in some cases, but during this time period, it was mostly done by actual real people. 
+
+The creation of the locomotive, however, would change the means of travel just as much as just better sails and ship designs would allow for the settling of the modern world. Railroads and train tracks would come under construction for use for the average citizen to commute for work and even just travel the world. Laying the groundwork for greater amounts of travel at far greater speed. Making travel once thought impossible or simply too “inconvenient” now seemed less so, just as the ships in the past had done.  
+
+In the same vein as the locomotive but more personalized and individualized, we now come to that of The Model T Ford. The Model T was the first truly working and affordable car that the average citizen could get their hands on and would allow them to drive in much the same way our modern-day cars do. This would replace the horse usage up to this point that had been dominating the means of most road-based travel and would change the landscape of the entire world. No longer would small horse-sized gravel paths work. Now roadways would come under construction and eventually even highways for the interest and use of fast travel at your own pace at your own time. Once again, however, at the cost of fossil fuel emissions, but again few actually paid attention to that back then. This would further urbanize the entire world, not just one particular country.
+
+With faster means of travel would also come faster forms of communication in the form of the telegraph. The telegraph would allow the sending of documents over large distances for the use of business and, eventually, for the same purpose mail could even serve. 
+
+It didn’t stop there! Next would come the invention of the telephone, which would allow the long-distance communication of nearly anyone you wanted, so now, besides just the use of documents, you could phone anyone you wanted. This would again change society in that now people could be of longer distances away and still keep in contact. Allowing families to further divide out for the sake of work or whatever other means they needed or wanted. Eventually, this would even go international, allowing people in entirely different countries to communicate with the simple dial of a telephone number. 
+
+Then since the dawn of man with fire, humans had been trying to escape the dark. With the invention of the lightbulb now, which emitted more light than candles at the cost of electricity, houses would now be much brighter lit at night. Moreover, lights would come in the form of street lamps used to light up roads for traveling cars at night. 
+
+### 7.6 Industrialization: Government’s Role
+
+The emergence of The Middle Class had begun in this time period. The Middle Class were people who had the money for leisure but were by no means the majority at all. In fact, the majority of people were living paycheck to paycheck and would rinse and repeat a cycle of waking up, going to work, work, go home to sleep, repeat for all of their lives. To some, it was maddening, but it would provide food for the table and the whole family at that. However, wages were extremely low nonetheless. 
+
+Many could barely afford to pay their bills, while factory owners only continued to rake in more and more of the profits. Becoming all powerful and rich. This was not only the case for factory owners, however. Across all industries would come powerful men who would create a product and then monopolize it. Men such as the infamous Rockefeller and his oil tycoon. 
+
+Worse yet, in the example of factory workers, the entire family had been uprooted. With women and children working in factories, sometimes not even the same one as it was entirely up to the factory to hire you or not, families would struggle severely, barely seeing one another and constantly being on the move. 
+
+Housing would also come to become a crisis as barely could housing and the very nature of space itself keep up with the sheer volume of people moving into urban centers and cities specifically. Leading to issues of how people would even get to work in the first place. This is why the invention of things such as The Model T and the locomotive were so critical to keep this system going. 
+
+Worse yet still, while few paid attention to it, as previously mentioned, pollution was indeed starting to have an effect on the environment as well as began to worsen and worsen over time as more and more factories and uses of fossil fuels began to occur. 
+
+As a result, in the end, governments had two roles to play and would indeed play them to the best of their ability. Each government would decide those two roles out of a total of three options. The first option that every government was required to choose was that of the regulator. The question was to what amount and how often. In the United States, as discussed previously, that regulatory role would be limited as they took a more Laissez Faire approach. Even so, some regulations would come into existence to appease workers suffering from the conditions described above. 
+
+The second role the government would need to choose was that of incentive or command. Only one of the two could be chosen. Those who picked incentives, such as the United States, would offer tax breaks or certain labor laws that would still incentivize companies to work in the country at the cost of something else. Or in the case of Russia during this time period as well, entire parts of labor could or would be state-sponsored. In other words, the state would see a need and thus would pay for that labor to be done. The examples mostly of “command” would come later in Russia as well, however, under the Soviet Union’s communist system. 
+
+With its two roles chosen, the government was set, and even today, governments act in much the same exact way when it comes to economics. They have two roles to take in, and they must stick to them once they are taken. 
+
+### 7.7 Economic Developments and Innovations in the Industrial Age
+
+While economics would boom under these new systems, especially in places like Europe and The United States, it came with many caveats that will be discussed below.
+
+As a result of all the issues listed above, resentment and anger would begin to grow in the “working class,” as it would be coined. Intellectual thinkers would begin to look at and see these types of systems occurring and begin to debate and theorize. 
+
+So it would come that Karl Marx and Fredrich Engels would enter the debate using their newly published “Communist Manifesto.” It would challenge Adam Smith’s view of the world, which was that free market capitalism would lead to better opportunities for everyone. Karl would counter this by bringing up the horrible wages and what he viewed as the exploitation of those within the factories. Challenging the entire system as simply one of exploitation with opportunities for the few on the backs of the workers (the many). 
+
+What is important to note about this time period is Marx knew nothing of The Soviet Union or that it would even exist and use his ideas. Those regions would, of course, later use his ideas, and he would gain popular followers of this belief in the pre soviet union.  For example, in Russia, Vladimir Lenin studied and learned Marx's ideology greatly. This would lead to Communist Revolutions. Their solution to what they viewed as a major issue. 
+
+In The United States, however, the solutions would come from the collective bargaining of Labor Unions, which would advocate at all times for their people. These would result in new safety protocols, the end of child labor, and minimum wage laws. At first, it would start, however, before the government as just forcing these companies via their power to cave into them. The laws would come later and were almost redundant by the time they actually came into place. 
+
+Meanwhile, in The Middle East, they would face a very steep and damaging decline. They were extremely slow to industrialize, and so they would be surpassed. Most of their economy and use of technology would be in the use of their old ship designs, but as more methods of transportation had come into existence, the need for such things was going down. Demand was dying. Worse yet, textiles made in the Middle East were not only viewed as inferior, but due to less experienced workers due to it coming down to that slow start, it tended to actually be indeed inferior. So that business would tend to go to Europe or to The United States instead.
+
+European imperialism would rear its ugly head once more as nations that it would tend to brutally and decisively defeat would be forced to sign unfair treaties. Worse yet, in some cases, those treaties would be ignored, and they simply would steal resources from conquered nations despite treaties saying otherwise. 
+
+This would lead to many “dependent nations.” These were nations that rallied on the imports of other nations to even develop in any meaningful way. This is where the concept of “The Third World” would begin to slowly take shape. 
+
+## Chapter 8: Consequences of Industrialization (12-15% of the test)
+
 **More here later after I verify I should continue.** 
 
