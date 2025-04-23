@@ -12,7 +12,7 @@ Steven Grevera also runs his own LLC for his creative works.
 
 ## What is Steven Grevera majoring in? 
 
-B.A., English (Technical Communication)
+B.A, English (Technical Communication)
 
 ## Where does Steven Grevera live? 
 
