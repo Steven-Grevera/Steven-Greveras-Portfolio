@@ -1,3 +1,5 @@
+# Manual has been temporarily taken from down major projects until I copyright it and reach out to see if it's bought. If not, add it to my general works section for the future.
+
 [Home](home-page.md) | [Major Projects](Major_Projects.md) | [Resume](resume.md) | [FAQ's](FAQ.md) | [Contact Me](Contact_Me.md)
 
 ![image](https://github.com/user-attachments/assets/ed253747-64e5-4fb9-add6-afc43e22bd9c)
