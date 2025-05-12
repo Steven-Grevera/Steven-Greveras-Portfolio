@@ -9,4 +9,4 @@
 
 [Microsoft Window's 10 Safe Mode Instructions Guide and User Usability Test](Quick_Start_Guide.md) (Guide) 
 
-
+[A Darker Time, A Darker Vader](A_Darker_Time_A_Darker_Vader.md) (Blog/Article) 
