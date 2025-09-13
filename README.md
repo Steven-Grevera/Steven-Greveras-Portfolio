@@ -1,4 +1,5 @@
-[Home](home-page.md) | [Major Projects](Major_Projects.md) | [Resume](resume.md) | [FAQ's](FAQ.md) | [Contact Me](Contact_Me.md)
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | | [FAQ's](FAQ.md) |
+
 
 # Steven-Greveras-Portfolio
 
