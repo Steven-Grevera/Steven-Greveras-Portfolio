@@ -1,3 +1,6 @@
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | | [FAQ's](FAQ.md) |
+
+
 # A Darker Time, A Darker Vader
 
 Something Star Wars has always done well over the many decades in which it has existed is using existing characters effectively. Darth Vader, both on the big screen and in comic lore is a cultural icon to the point of a mythological presence. Yet, in truth, he was a product of his time both in-universe and in our very own. The tragedy of Vader was that he was thought to be a resounding hero that would save the galaxy. Anakin Skywalker. Only, in the end, he would bring in a dark age for the whole of the galaxy. He has a last-minute redemption arc in the name of his son and so the tale goes of Vader. 
