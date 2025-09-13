@@ -14,9 +14,6 @@ Steven Grevera also runs his own LLC for his creative works.
 
 B.A, English (Technical Communication)
 
-## Where does Steven Grevera live? 
-
-The Sunshine State of Orlando, Florida  
 
 ## Why does Steven Grevera sound familiar? 
 
@@ -24,11 +21,11 @@ Steven Grevera is an author who writes a series of books that go by the running 
 
 ## Can I hire Steven Grevera for writing or ghost writing? 
 
-Absolutely! Check the "Contact Me" page for ways to get in touch with him and click on the writing business email with your business proposal or any inquiries. 
+Absolutely! Contact me through UpWork. 
 
 ## Can I hire Steven Grevera for Technical Writing? 
 
-Use the standard business email with your proposal, job offers, or inquiries into this regard. Steven Grevera is currently a freelance writer, so he must decide on his response on a case-by-case basis.  
+Absolutely! Contact me through UpWork.  
 
 ## What is Steven Grevera’s favorite color? 
 
@@ -39,3 +36,4 @@ In order, Steven Grevera's favorite colors are purple, black and red. If he had 
 ### AI Statement
 
 No AI was used in the creation of this web page. 
+
