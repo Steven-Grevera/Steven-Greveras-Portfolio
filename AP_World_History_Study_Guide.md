@@ -1,4 +1,4 @@
-[Home](home-page.md) | [Major Projects](Major_Projects.md)
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | | [FAQ's](FAQ.md) |
 
 # AP World History Study Guide
 
