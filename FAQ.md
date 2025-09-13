@@ -1,4 +1,4 @@
-[Home](home-page.md) | [Major Projects](Major_Projects.md) | [Resume](resume.md) | [FAQ's](FAQ.md) | [Contact Me](Contact_Me.md)
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | | [FAQ's](FAQ.md) |
 
 # FAQ’s
 
@@ -36,4 +36,5 @@ In order, Steven Grevera's favorite colors are purple, black and red. If he had 
 ### AI Statement
 
 No AI was used in the creation of this web page. 
+
 
