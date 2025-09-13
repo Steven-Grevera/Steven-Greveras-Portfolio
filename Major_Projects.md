@@ -1,4 +1,5 @@
-[Home](home-page.md) | [Major Projects](Major_Projects.md) | [Resume](resume.md) | [FAQ's](FAQ.md) | [Contact Me](Contact_Me.md)
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | | [FAQ's](FAQ.md) |
+
 
 
 # **Major Projects** 
@@ -10,3 +11,4 @@
 [Microsoft Window's 10 Safe Mode Instructions Guide and User Usability Test](Quick_Start_Guide.md) (Guide) 
 
 [A Darker Time, A Darker Vader](A_Darker_Time_A_Darker_Vader.md) (Blog/Article) 
+
