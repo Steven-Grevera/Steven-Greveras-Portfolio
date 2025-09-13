@@ -1,4 +1,4 @@
-[Home](home-page.md) | [Major Projects](Major_Projects.md) | [Resume](resume.md) | [FAQ's](FAQ.md) | [Contact Me](Contact_Me.md)
+[Home](home-page.md) | [Major Projects](Major_Projects.md) | | [FAQ's](FAQ.md) |
 
 # Quick Start Guide
 
@@ -334,3 +334,4 @@ As should be noted, however, some steps could have been written even better and 
 Also of note, the user first did the test on a workstation in which the guide worked without issue. However they would then proceed to do it on their own laptop and came into issues that arose. Namely, it seemed the Windows 10 Black Screen Safe Mode feature that shouldn't have been toggled on had been turned on. Guide can be updated to provide two screenshots of how things should work depending on the situation or a link on what to do if their screen shows the black screen as opposed to the standard blue screen that was provided in the guide. 
 
 ### AI Statement: No AI was used in the creation of this project. 
+
